@@ -1,0 +1,63 @@
+satker,nama,alamat,prov,ruang,kelas,total_kamar,terisi_lk,terisi_pr,total_terisi,kosong_lk,kosong_pr,total_kosong,waiting_list,last_update,lat,lng
+1371444,RS Umum Daerah dr. Rasidin Padang," Jl. Air Paku Sei.Sapih Kec.Kuranji,Padang",SUMATERA BARAT,Umum,Isolasi,0,0,0,0,-,-,0,N/A,25/Feb/2019 07:14:27,0.904914,100.380157
+1671013,RS Umum Pusat Dr. Mohammad Hoesin Palembang,"JL Jendral Sudirman KM 3,5 Palembang",SUMATERA SELATAN,Isolasi Air Borne,Rawat Khusus,0,0,0,0,-,-,0,N/A,23/Aug/2018 09:19:05,-2.972911,104.75193
+1702015,RS Umum Daerah Curup,Jl. Basuki rahmat No. 10 Dwi Tunggal Curup,BENGKULU,Isolasi Anak,Rawat Khusus,0,0,0,0,-,-,0,N/A,06/Apr/2020 04:15:25,-3.457453,102.553261
+1971043,RS Bakti Timah Pangkalpinang,"Jl. Bukit Baru No.1, Kel.Taman Bunga Kec.Gerunggang Pangkal Pinang",KEPULAUAN BANGKA BELITUNG,ICU,Isolasi,1,0,1,1,-,-,0,N/A,06/Apr/2020 04:47:51,-2.230789,106.134567
+3175016,RS Umum Daerah Koja," Jl. Deli No.4 Tanjung Priok,Jakut",DKI JAKARTA,Isolasi Radioaktif,Kelas 1,4,0,4,4,-,-,0,N/A,04/Jul/2017 14:48:09,-6.108861,106.900002
+3172013,RSUP Persahabatan,"    Jl. Persahabatan Raya No. 1,Jaktim",DKI JAKARTA,Isolasi Air Borne,Isolasi,6,8,1,9,-,-,-3,N/A,07/Apr/2020 13:25:25,-6.204058,106.884773
+3275013,RS Umum Daerah dr. Chasbullah Abdulmadjid,Jl. Pramuka No. 55 Bekasi,JAWA BARAT,Isolasi TB MDR,Rawat Khusus,1,1,0,1,-,-,0,N/A,29/Jan/2019 05:57:31,-6.268111,107.082497
+3275013,RS Umum Daerah dr. Chasbullah Abdulmadjid,Jl. Pramuka No. 55 Bekasi,JAWA BARAT,Isolasi Anak,VIP,6,4,2,6,-,-,0,N/A,26/Dec/2018 10:01:16,-6.268111,107.082497
+3273528,RS Ibu dan Anak Melinda,"Jl. Pajajaran No.46 Kel Pasirkaliki, Kec. Cicendo, Kota Bandung",JAWA BARAT,Isolasi Radioaktif,Kelas 1,4,0,4,4,-,-,0,N/A,04/Jul/2017 14:48:09,-6.906814,107.603363
+3273486,RS Umum Santosa Hospital Bandung Central,"Jl. Kebon Jati No.38,Bandung",JAWA BARAT,Isolasi Air Borne,Rawat Khusus,3,2,1,3,-,-,0,N/A,20/Feb/2019 08:02:01,-6.918497,107.59816
+3273453,RS Khusus Ginjal NY R.A. Habibie,Jl. Tubagus Ismail No. 46 Kota Bandung,JAWA BARAT,Isolasi Radioaktif,Kelas 1,4,0,4,4,-,-,0,N/A,04/Jul/2017 14:48:09,-6.885364,107.619629
+3273121,RS Umum Rajawali,Jl. Rajawali No.38 Kota Bandung,JAWA BARAT,Isolasi Radioaktif,Kelas 1,4,0,4,4,-,-,0,N/A,04/Jul/2017 14:48:09,-6.91255,107.572998
+3273052,RS Umum Immanuel Bandung,Jl. Kopo 161 Bandung,JAWA BARAT,Isolasi Radioaktif,Kelas 1,0,0,0,0,-,-,0,N/A,24/Oct/2017 08:38:05,-6.93545,107.596001
+3271013,RS Umum PMI Bogor,Jl. Raya Pajajaran No. 80 Bogor,JAWA BARAT,Isolasi Anak,Isolasi,1,1,0,1,-,-,0,N/A,07/Apr/2020 03:42:02,-6.597042,106.806114
+3216252,RS Umum Daerah Kab.Bekasi," Jl. Teuku Umar Cibitung,Bekasi",JAWA BARAT,NICU,Isolasi,8,8,8,16,-,-,-8,N/A,07/Apr/2020 13:01:01,-6.266789,107.082001
+3216252,RS Umum Daerah Kab.Bekasi," Jl. Teuku Umar Cibitung,Bekasi",JAWA BARAT,CVCU/ICCU,Isolasi,0,0,0,0,-,-,0,N/A,07/Apr/2020 13:01:01,-6.266789,107.082001
+3215012,RS Umum Daerah Karawang," Jl. Galuh Mas Raya No.1, Sukaharja, Teluk Jambe, Karawang",JAWA BARAT,Isolasi Anak,Isolasi,3,2,1,3,-,-,0,N/A,06/Apr/2020 09:00:00,-6.257053,107.322853
+3212031,RS Umum Daerah M.A. Sentot Patrol,Jl. Raya Patrol Km. 46 Patrol Kab. Indramayu,JAWA BARAT,ICU,Isolasi,8,4,4,8,-,-,0,N/A,05/Mar/2019 06:17:30,-6.829183,107.70253
+3210014,RS Umum Daerah Majalengka, Jl. Kesehatan No.77 Majalengka,JAWA BARAT,Isolasi TB MDR,Kelas 2,0,2,4,6,-,-,-6,N/A,06/Apr/2020 06:59:56,-6.833375,108.233261
+3210014,RS Umum Daerah Majalengka, Jl. Kesehatan No.77 Majalengka,JAWA BARAT,-,Isolasi,0,0,0,0,-,-,0,N/A,01/Jan/1970 07:00:00,-6.833375,108.233261
+3206070,RS Umum Jasa Kartini,Jl. Otto Iskandar Dinata No 15,JAWA BARAT,Infeksi,Isolasi,2,1,1,2,-,-,0,N/A,07/Apr/2020 03:52:24,-7.326289,108.222458
+3205010,RS Umum Daerah dr. Slamet Garut,Jl. Rumah Sakit No.12 Garut,JAWA BARAT,Isolasi Radioaktif,Kelas 1,4,0,4,4,-,-,0,N/A,04/Jul/2017 14:48:09,-7.219705999999999,107.897133
+3204016,RS Umum Daerah Majalaya,  Jl. Raya Cipaku No.87 Majalaya Kabupaten Bandung,JAWA BARAT,Isolasi TB MDR,Kelas 3,27,15,12,27,-,-,0,N/A,22/Sep/2018 07:17:54,-7.0486580000000005,107.772278
+3202051,RS Umum Daerah Jampang Kulon,"  Jl. Cibarusah No.1 Jampang Kulon, Kab.Sukabumi",JAWA BARAT,Isolasi TB MDR,Kelas 1,0,0,0,0,-,-,0,N/A,19/Feb/2018 07:51:21,-6.9196,106.9272
+3374043,RS Umum Telogorejo Semarang,Jl. KH. Ahmad Dahlan Semarang,JAWA TENGAH,Kandungan,Isolasi,8,4,4,8,-,-,0,N/A,31/Mar/2020 11:13:22,-6.988278,110.426651
+3373016,RS Umum Daerah Salatiga," Jl. Osamaliki No.19,Salatiga",JAWA TENGAH,Isolasi TB MDR,Isolasi,6,1,5,6,-,-,0,N/A,08/Mar/2019 09:03:01,-7.327033,110.496216
+3326038,RS Umum Daerah Kajen Kab.Pekalongan,Jl. Raya Karangsari Karanganyar Kab. Pekalongan,JAWA TENGAH,ICU,Isolasi,2,2,2,4,-,-,-2,N/A,02/Apr/2020 03:01:01,-6.988967,110.446152
+3324014,RS Umum Daerah Dr. H. Soewondo Kendal,"Jl. Laut No. 21, Kendal",JAWA TENGAH,Isolasi Air Borne,Kelas 2,4,3,1,4,-,-,0,N/A,31/Mar/2020 13:46:01,-6.920664,110.196671
+3319010,RS Umum Daerah dr. Loekmono Hadi,"    Jl. Dr. Lukmonohadi No.19,Kudus",JAWA TENGAH,NICU,Isolasi,1,1,0,1,-,-,0,N/A,07/Apr/2020 13:00:01,-6.819756,110.83596
+3307050,RS Umum Islam Wonosobo,Jl. Letjen S. Parman Km.3 Wonosobo,JAWA TENGAH,Isolasi Air Borne,Kelas 2,6,6,0,6,-,-,0,N/A,27/Feb/2019 07:50:39,-7.368678,109.927422
+3402031,RSU PKU Muhammadiyah Bantul,Jl Jenderal Sudirman 124 Bantul,DI YOGYAKARTA,Isolasi Radioaktif,Kelas 1,4,0,4,4,-,-,0,N/A,04/Jul/2017 14:48:09,-7.886867,110.330215
+3402016,RS Umum Daerah Panembahan Senopati,Jl Dr. Wahidin Sudiro Husodo Bantul,DI YOGYAKARTA,Isolasi Air Borne,Kelas 2,2,0,2,2,-,-,0,N/A,07/Apr/2020 13:28:01,-7.892725,110.337746
+3573011,RS Umum Daerah Dr. Saiful Anwar,     Jl. Jaksa Agung Suprapto No.2 Malang,JAWA TIMUR,Isolasi Imunitas menurun,Kelas 3,5,4,1,5,-,-,0,N/A,02/Apr/2020 05:19:29,-7.964533,112.631714
+3522058,RS umum Daerah Padangan,"Jl. Dr. Soetomo No. 2 Padangan, Bojonegoro",JAWA TIMUR,Isolasi Air Borne,Isolasi,4,2,2,4,-,-,0,N/A,25/Oct/2018 10:26:53,-7.160639,111.633514
+3518011,RS Umum Daerah Nganjuk,"Jl. Dr. Sutomo 62, Nganjuk",JAWA TIMUR,ICU,Isolasi,6,2,4,6,-,-,0,N/A,25/Feb/2019 10:50:02,-7.661178,111.872345
+3515121,RS Umum Anwar Medika,Jl. Raya By Pass Krian KM 33 Semawut Balong Bendo Sidoarjo,JAWA TIMUR,Isolasi Radioaktif,Kelas 1,4,0,4,4,-,-,0,N/A,19/Dec/2018 10:39:00,-7.412169,112.561089
+3513013,RS Umum Daerah Waluyo Jati Kraksaan,Jl. Dr. Soetomo No. 1 Kec. Kraksaan Kab. Probolinggo,JAWA TIMUR,Isolasi Air Borne,Kelas 2,2,0,2,2,-,-,0,N/A,05/Apr/2020 18:00:00,-7.761831,113.437401
+3671032,RS Kusta Dr. Sitanala,Jl. Dr Sitanala No. 99 Kota Tangerang,BANTEN,Isolasi Radioaktif,Kelas 1,4,0,4,4,-,-,0,N/A,04/Jul/2017 14:48:09,-6.162642,106.63369
+3603010,RS Umum Daerah Kabupaten Tangerang,"Jl. A Yani No. 9 Tangerang, Kota Tangerang",BANTEN,Isolasi Radioaktif,Kelas 1,4,0,4,4,-,-,0,N/A,04/Jul/2017 14:48:09,-6.170044,106.635468
+5171020,RS Umum Daerah Wangaya,  Jl. Kartini No.133 Denpasar,BALI,Isolasi TB MDR,Kelas 1,0,0,0,0,-,-,0,N/A,04/Dec/2018 06:17:19,-8.648956,115.213402
+5308045,RS Umum Daerah Lewoleba,"   Jl.Trans Lembata No.1,Lewoleba,Lembata",NUSA TENGGARA TIMUR,Isolasi Air Borne,Kelas 3,0,0,0,0,-,-,0,N/A,28/Feb/2018 08:48:40,-8.373692,123.400024
+5308045,RS Umum Daerah Lewoleba,"   Jl.Trans Lembata No.1,Lewoleba,Lembata",NUSA TENGGARA TIMUR,Isolasi TB MDR,Kelas 3,0,0,0,0,-,-,0,N/A,28/Feb/2018 08:48:59,-8.373692,123.400024
+5308045,RS Umum Daerah Lewoleba,"   Jl.Trans Lembata No.1,Lewoleba,Lembata",NUSA TENGGARA TIMUR,Isolasi Imunitas menurun,Kelas 3,0,0,0,0,-,-,0,N/A,28/Feb/2018 08:49:48,-8.373692,123.400024
+5308045,RS Umum Daerah Lewoleba,"   Jl.Trans Lembata No.1,Lewoleba,Lembata",NUSA TENGGARA TIMUR,Isolasi Radioaktif,Kelas 3,0,0,0,0,-,-,0,N/A,28/Feb/2018 08:49:58,-8.373692,123.400024
+5308045,RS Umum Daerah Lewoleba,"   Jl.Trans Lembata No.1,Lewoleba,Lembata",NUSA TENGGARA TIMUR,Isolasi Anak,Kelas 3,0,0,0,0,-,-,0,N/A,28/Feb/2018 08:52:58,-8.373692,123.400024
+5308045,RS Umum Daerah Lewoleba,"   Jl.Trans Lembata No.1,Lewoleba,Lembata",NUSA TENGGARA TIMUR,Isolasi Hematologi Onkologi Anak,Kelas 3,0,0,0,0,-,-,0,N/A,28/Feb/2018 08:53:24,-8.373692,123.400024
+6201012,RS Umum Daerah Sultan Imanuddin,Jl. Sutan Syahrir No 17 Pangkalan Bun,KALIMANTAN TENGAH,Paru,Isolasi,4,5,1,6,-,-,-2,N/A,21/Mar/2020 04:59:43,-1.681489,113.382355
+6372014,RS Umum Daerah Idaman Banjarbaru,Jl. Trikora No. 115 Gt. Manggis Banjarbaru,KALIMANTAN SELATAN,Kebidanan,Isolasi,0,1,0,1,-,-,-1,N/A,31/Dec/2018 06:34:49,-3.092642,115.28376000000002
+6371013,RS Umum Daerah Ulin Banjarmasin,"Jl. Jen A Yani No.43, Banjarmasin Kalimantan Selatan",KALIMANTAN SELATAN,Isolasi Air Borne,Kelas 1,10,7,3,10,-,-,0,N/A,07/Apr/2020 04:11:06,-3.395972,114.585083
+6401014,RS Umum Daerah Panglima Sebaya,Jl. Kusuma Bangsa KM.5 Tanah Grogot,KALIMANTAN TIMUR,Isolasi Natural Air Flow Tanpa Ventilator,Isolasi,8,8,0,8,-,-,0,N/A,06/Apr/2020 09:42:36,-1.971347,116.228798
+7104027,RS Bergerak Kab.Kep.Talaud,  Jl Raya Taturan - Gemeh Kecamatan Gemeh Kabupaten Kepulauan Talaud,SULAWESI UTARA,Isolasi Air Borne,super VIP,0,0,0,0,-,-,0,N/A,13/Mar/2018 06:31:11,4.092,126.767998
+7104027,RS Bergerak Kab.Kep.Talaud,  Jl Raya Taturan - Gemeh Kecamatan Gemeh Kabupaten Kepulauan Talaud,SULAWESI UTARA,Isolasi TB MDR,super VIP,0,0,0,0,-,-,0,N/A,13/Mar/2018 06:40:59,4.092,126.767998
+7104027,RS Bergerak Kab.Kep.Talaud,  Jl Raya Taturan - Gemeh Kecamatan Gemeh Kabupaten Kepulauan Talaud,SULAWESI UTARA,Isolasi Imunitas menurun,super VIP,0,0,0,0,-,-,0,N/A,13/Mar/2018 06:48:41,4.092,126.767998
+7104027,RS Bergerak Kab.Kep.Talaud,  Jl Raya Taturan - Gemeh Kecamatan Gemeh Kabupaten Kepulauan Talaud,SULAWESI UTARA,Isolasi Radioaktif,super VIP,0,0,0,0,-,-,0,N/A,13/Mar/2018 06:53:16,4.092,126.767998
+7104027,RS Bergerak Kab.Kep.Talaud,  Jl Raya Taturan - Gemeh Kecamatan Gemeh Kabupaten Kepulauan Talaud,SULAWESI UTARA,Isolasi Anak,super VIP,0,0,0,0,-,-,0,N/A,14/Mar/2018 09:57:32,4.092,126.767998
+7104027,RS Bergerak Kab.Kep.Talaud,  Jl Raya Taturan - Gemeh Kecamatan Gemeh Kabupaten Kepulauan Talaud,SULAWESI UTARA,Isolasi Hematologi Onkologi Anak,super VIP,0,0,0,0,-,-,0,N/A,14/Mar/2018 10:07:11,4.092,126.767998
+7271014,RS Umum Daerah Undata Palu,"Jl. R. E. Martadinata, Tondo Kecamatan Mantikulore",SULAWESI TENGAH,Infeksi,Isolasi,19,75,58,133,-,-,-114,N/A,30/Jan/2018 18:30:35,-0.886883,119.867165
+7208011,RS Umum Daerah Anuntaloko Parigi, Jl. Sis Al Jufri No.214 Parigi Moutong,SULAWESI TENGAH,Isolasi Air Borne,Kelas 1,5,3,2,5,-,-,0,N/A,23/Mar/2020 10:32:58,-0.846275,120.17971
+7202015,RS Umum Daerah Kabupaten Banggai, Jl. Imam Bonjol KM 3 No. 14 Luwuk,SULAWESI TENGAH,CVCU/ICCU,Isolasi,3,2,1,3,-,-,0,N/A,04/Apr/2020 08:37:10,-0.934819,122.822563
+7403022,RS Umum Daerah Konawe,"Jl. Pangeran Diponegoro No.301, Konawe",SULAWESI TENGGARA,Isolasi Radioaktif,Kelas 1,4,0,4,4,-,-,0,N/A,04/Jul/2017 14:48:09,-3.968183,122.572235
+7402010,RS Umum Daerah Raha,Jl. Ahmad yani raha no 10 Raha,SULAWESI TENGGARA,Infeksi,Isolasi,4,3,1,4,-,-,0,N/A,20/Feb/2019 02:26:03,-4.901628,122.627747
+7502033,RS Umum Daerah dr. M. Mohammad Dunda,Jl. Achmad A. Wahab (eks Ahmad Yani No. 53) Limboto Gorontalo,GORONTALO,Isolasi Air Borne,Isolasi,8,4,4,8,-,-,0,N/A,17/Feb/2019 00:00:00,0.701342,122.265388

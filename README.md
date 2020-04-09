@@ -10,7 +10,7 @@
 5. Selenium 3.141.0 
 
 ## How to Run the Scripts
-1. Install all of the requirements
+1. Install all of the requirements using pip3 install package-name
 2. ipynb Files
    1. Open the ipynb files in Jupyter Notebook or Google Colab
    2. Choose Kernels - Restart and Run All

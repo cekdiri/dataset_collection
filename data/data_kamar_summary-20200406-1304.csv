@@ -1,0 +1,618 @@
+satker,nama,alamat,prov,total_kamar,terisi_lk,terisi_pr,total_terisi,kosong_lk,kosong_pr,total_kosong,waiting_list,lat,lng
+1277011,RS Umum Daerah Padang Sidempuan,"Jl Dr. F.L. Tobing No. 10,Padangsidimpuan",SUMATERA UTARA,200,3,2,5,0,0,195,0,1.419353,99.185211
+1276040,RS Tk IV 01.07.02 Binjai,Jl. Bandung No.4 Binjai,SUMATERA UTARA,64,12,11,23,4,2,41,0,3.699319,98.507103
+1275794,RS Umum Haji Medan,Jl RS Haji Medan Estate,SUMATERA UTARA,251,21,24,45,113,86,206,0,3.57855,98.688805
+1275655,RSUP H. Adam Malik,"Jl Bunga Lau No. 17, Medan",SUMATERA UTARA,788,113,92,205,0,0,583,0,3.5189,98.610298
+1275633,RS Umum Martha Friska,"Jl KL. Yos Sudarso Km.6 No. 91,Medan",SUMATERA UTARA,4,3,0,3,1,0,1,0,3.683069,98.66532099999999
+1275622,RS Umum Imelda Pekerja Indonesia,"Jl Bilal No.24 Pulo Brayan Darat I,Medan",SUMATERA UTARA,0,0,0,0,0,5,0,0,3.62275,98.683945
+1275600,RS Umum Prima Husada Cipta Medan,"Jl Stasiun No.92, Belawan Medan",SUMATERA UTARA,83,34,23,57,10,16,26,0,3.772269,98.681465
+1275590,RS Umum Bhakti,Jl HM Joni No.64 Medan,SUMATERA UTARA,0,0,0,0,1,1,0,0,3.568767,98.697014
+1275276,RS Umum Vina Estetica,Jl Sultan Iskandar Muda No.119,SUMATERA UTARA,64,0,0,0,2,2,64,0,3.5870610000000003,98.661293
+1275221,RS Jiwa Prof. Dr. Muhammad Ildrem,Jl Let. Jend. Jamin Ginting S Km. 10/ Jl. Tali Air No. 21 Kel. Mangga Kec. Medan Tuntungan,SUMATERA UTARA,441,235,69,304,68,69,137,0,3.585222,98.675575
+1275196,RS Umum Sari Mutiara,"Jl Kapten Muslim 79, Medan",SUMATERA UTARA,0,0,0,0,0,0,0,0,3.597981,98.644745
+1275152,RS Umum Lanu Dr. Abd. Malik,"Jl. Imam Bonjol No.50,Medan",SUMATERA UTARA,12,0,0,0,9,12,12,0,3.579528,98.67675
+1275126,RS Umum Methodist,"Jl M. H. Thamrin No. 105, Medan",SUMATERA UTARA,95,10,5,15,31,49,80,0,3.583789,98.692902
+1275046,RS Bhayangkara Medan,"Jl KH Wahid Hasyim No.1, Medan",SUMATERA UTARA,2,1,1,2,0,0,0,0,3.5726,98.658501
+1275035,RS Tk. II Putri Hijau Medan,"Jl Putri Hijau No. 17, Medan",SUMATERA UTARA,243,52,66,118,56,55,125,0,3.595758,98.675636
+1275013,RS Umum Daerah Dr. Pirngadi,"Jl Prof H M Yamin SH No. 47, Medan",SUMATERA UTARA,379,45,38,83,0,0,296,0,3.598119,98.6884
+1274012,RS Umum Daerah Dr. H. Kumpulan Pane,Jl Dr. Kumpulan Pane No.226,SUMATERA UTARA,221,56,39,95,57,67,126,0,3.3194440000000003,99.152222
+1273102,RS Umum Horas Insani,"Jl. Medan Km.2,5 Pematang Siantar",SUMATERA UTARA,8,2,2,4,2,2,4,0,2.98615,99.08036
+1273055,RS Umum Vita Insani,"Jl. Merdeka No.329, Pematang Siantar",SUMATERA UTARA,0,5,15,20,15,5,-20,0,2.9616830000000003,99.07093
+1273011,RS Umum Daerah Dr. Djasamen Saragih,"Jl Sutomo No. 230, Pematangsiantar",SUMATERA UTARA,171,4,3,7,61,86,164,0,2.9586330000000003,99.069626
+1272010,RS Umum Daerah Dr. Tengku Mansyur,Jl Mayjen Sutoyo No. 39 Tanjung Balai,SUMATERA UTARA,129,24,46,70,26,32,59,0,3.0488169999999997,99.794914
+1271016,RS Umum Daerah Dr. Fl Tobing Sibolga,Jl Dr. F.L. Tobing No. 35 Sibolga,SUMATERA UTARA,162,25,18,43,81,94,119,0,1.700822,98.82294499999999
+1218125,RS Umum Daerah Sultan Sulaiman Syariful Alamsyah,Kabupaten Serdang Bedagai,SUMATERA UTARA,127,51,10,61,41,26,66,0,3.492603,99.12101700000001
+1214010,RS Umum Daerah Lukas Hilisimaetano,Jln. RSUD Lukas no.01 Hilisimaetano,SUMATERA UTARA,68,4,3,7,11,27,61,0,-1.122097,98.74811600000001
+1213024,RS Umum PTP II Tg Selamat,Jl. Besar Batang Serangan No. 48 Kec. Padang Tualang,SUMATERA UTARA,103,10,10,20,54,29,83,0,3.815464,98.34816
+1213013,RS Umum Daerah Tanjung Pura,Jl Khairil Anwar No.9 Tanjung Pura,SUMATERA UTARA,27,0,24,24,3,4,3,0,3.8996,98.415871
+1211033,RS Umum Kusta Lau Simomo,Desa Lau Simomo Kec. Kabanjahe Kab. Karo,SUMATERA UTARA,42,6,7,13,0,0,29,0,3.1375330000000003,98.45294200000001
+1211011,RS Umum Daerah Kabanjahe,Jl Kapten Selamat Ketaren No. 08 Kabanjahe,SUMATERA UTARA,203,70,63,133,41,45,70,0,3.1385669999999997,98.454628
+1210010,RS Umum Daerah Sidikalang,"Jl Rumah Sakit No 19, Sidikalang",SUMATERA UTARA,120,26,33,59,30,31,61,0,2.752294,98.30995899999999
+1209076,RS Umum Daerah Perdagangan,"Jl Radjadmin Purba, SH. Perdagangan",SUMATERA UTARA,43,17,16,33,21,18,10,0,2.957975,99.069229
+1208016,RS Umum Daerah H. Abdul Manan Simatupang,Jl. Sisingamangaraja No. 310 Kisaran,SUMATERA UTARA,27,11,12,23,0,5,4,0,2.078778,99.8536
+1207015,RS Umum Daerah Rantau Prapat,"Jl KH Dewantara 129, Rantau Prapat",SUMATERA UTARA,177,75,78,153,8,23,24,0,1.509161,99.62640400000001
+1205046,RS Umum Daerah Porsea,"Jl Raja Sipakko Napitulu, Ds. Parparean, Kec. Porsea, Kab. Toba Samosir",SUMATERA UTARA,84,0,0,0,0,0,84,0,2.340144,99.109116
+1205035,RS Umum Daerah Dolok Sanggul,Jl. dr. Ferdinand Lumban Tobing No. 1 Dolok Sanggul,SUMATERA UTARA,164,27,21,48,4,4,116,0,2.259583,98.752686
+1205024,RS Umum Daerah Dr. Hadrianus Sinaga,Jl Dr Hadrianus Sinaga No. 86 Pangururan,SUMATERA UTARA,90,14,31,45,0,0,45,0,2.6014,98.70405600000001
+1205013,RS Umum Daerah Tarutung, Jl Agus Salim No. 1 Tarutung,SUMATERA UTARA,240,47,41,88,76,78,152,0,2.034267,98.95858
+1204056,RS Umum Daerah Pandan,Jl Dr. FL. Tobing No. 05 Pandan,SUMATERA UTARA,100,11,36,47,0,0,53,0,1.6820279999999999,98.82306700000001
+1203055,RS Umum Daerah Sibuhuan,Jl KH. Dewantara Sibuhuan Kec. Barumun ,SUMATERA UTARA,79,28,20,48,14,17,31,0,1.052953,99.79164899999999
+1203044,RS Umum Daerah Gunung Tua,Jl Raya gunung Tua - Binangan KM 6 Aek Haruaya,SUMATERA UTARA,104,12,27,39,34,31,65,0,1.348142,99.737251
+1203033,RS Umum Daerah Tapanuli Selatan,"Jl RSU No.1,Sipirok Tapsel",SUMATERA UTARA,80,0,0,0,0,0,80,0,1.630233,99.287766
+1203022,RS Umum Daerah Panyabungan,"Jl Merdeka No.40, Kayu Jati Panyabungan",SUMATERA UTARA,110,47,41,88,10,12,22,0,0.8545309999999999,99.561409
+1201016,RS Umum Daerah Gunungsitoli,Jl dr. Ciptomangunkusumo No 15 Gunungsitoli,SUMATERA UTARA,257,93,106,199,14,44,58,0,1.2732,97.622963
+1376015,RS Umum Daerah Dr Adnaan WD,"  Jl. AIS Nasution 25,Balai Kaliki Payakumbuh",SUMATERA BARAT,95,32,46,78,6,11,17,0,-0.23333299999999998,100.63333100000001
+1375040,RS Umum Ibnu Sina Bukittinggi,"Jl. Batang Agam, Belakang Balok ",SUMATERA BARAT,149,27,57,84,0,0,65,0,-0.26695,100.383476
+1375036,RS Stroke Nasional,"Jl. Jend Sudirman,Bukittinggi PO. BOX I Bukittinggi",SUMATERA BARAT,149,47,35,82,0,0,67,0,-0.315819,100.374687
+1375014,RS Umum Daerah Dr. Achmad Mochtar,        Jl. Dr. A.Rivai Bukittinggi,SUMATERA BARAT,340,67,91,158,83,99,182,0,-0.299722,100.366066
+1374013,RS Umum Daerah Padang Panjang, Jl. Tabek Gadang Kelurahan Ganting Kec.Padang Panjang Timur Kota Padang Panjang,SUMATERA BARAT,160,30,26,56,48,56,104,0,-0.448875,100.416969
+1373012,RS Umum Daerah Sawah Lunto,"     Jl. RA. Kartini No.18, Sawah Lunto",SUMATERA BARAT,111,6,6,12,0,0,99,0,-0.666667,100.783333
+1372011,RS Umum Daerah Solok,"  Jl. Simpang Rumbio,Solok",SUMATERA BARAT,279,49,71,120,61,99,159,0,-1.476997,101.04686
+1371444,RS Umum Daerah dr. Rasidin Padang," Jl. Air Paku Sei.Sapih Kec.Kuranji,Padang",SUMATERA BARAT,93,0,0,0,0,0,93,0,0.904914,100.380157
+1371400,RS Bersalin Lenggogeni,"Jl. Purus II No.1,Padang",SUMATERA BARAT,29,0,0,0,0,0,29,0,-0.939967,100.353531
+1371316,RS Jiwa Prof.Dr. Hasan Basri Saanin Datuk Tan Pari," Jl. Raya Ulu Gadut,Padang",SUMATERA BARAT,314,136,26,162,109,43,152,0,-0.953731,100.351997
+1371021,RS Tk III Reksodiwiryo Padang,"Jl. Dr Wahidin No.1,Padang",SUMATERA BARAT,176,52,63,115,33,40,61,0,-0.950636,100.371788
+1371010,RSUP Dr. M. Djamil,    Jl. Perintis Kemerdekaan Padang,SUMATERA BARAT,800,187,206,393,0,0,407,0,-0.8883780000000001,100.362778
+1312024,RS Umum Daerah Pasaman Barat,"Jl.Jenderal Sudirman, Simpang Ampek, Pasaman Barat",SUMATERA BARAT,128,32,27,59,29,40,69,0,0.045683,99.818161
+1311013,RS Umum Daerah Sungai Dareh,"Jl. Lintas Sumatera KM 2, Kec.Pulau Punjung Kab.Dharmasraya Tlp.0754-40347",SUMATERA BARAT,172,10,9,19,66,87,153,0,-0.930275,101.45166
+1309022,RS Umum Islam Ibnu Sina,Jl M Natsir pasaman baru ,SUMATERA BARAT,128,31,50,81,0,0,47,0,0.070925,99.820267
+1309011,RS Umum Daerah Lubuk Sikaping," Jl. Jen Sudirman No.33,Lubuk Sikaping",SUMATERA BARAT,197,0,0,0,0,0,197,0,-0.135597,100.16843399999999
+1308016,RS Umum Daerah Lubuk Basung,"        Jl. M.Hatta Padang Baru,Lubuk Basung",SUMATERA BARAT,155,12,15,27,61,67,128,0,-0.25455,100.172493
+1306056,RS Umum Daerah Padang Pariaman,Jl.raya Padang bukittingi Km.42 Parit malintang,SUMATERA BARAT,95,13,17,30,3,0,65,0,-0.626975,100.13065300000001
+1305014,RS Umum Daerah Prof Dr M.A Hanafiah,Jl. Bundo Kanduang no 1 Batusangkar,SUMATERA BARAT,192,44,51,95,0,-15,97,0,-0.459639,100.590599
+1303023,"RS Umum Daerah Arosuka,Solok","  Jl. Lintas Sumatera Aro Suka Solok, Kab.Solok",SUMATERA BARAT,100,42,40,82,12,16,18,0,-0.803028,100.644402
+1303012,RS Umum Daerah Muara Labuh," Jl. Raya Km.1,Muara Labuh Padang Aro, Kabupaten Solok Selatan Propinsi Sumatera Barat",SUMATERA BARAT,40,4,13,17,10,17,23,0,-1.302492,101.046593
+1302011,RS Umum Daerah Dr. Muhammad Zein Painan,   Jln. A. Rivai No 1 Painan Kabupaten Pesisir Selatan,SUMATERA BARAT,105,30,25,55,15,22,50,0,-5.297031,104.006233
+1301010,RS Umum Daerah Kep. Mentawai, Jl. Raya Tuapejat KM.9 - Sipora Utara,SUMATERA BARAT,66,0,0,0,0,0,66,0,-2.061022,99.591049
+1473013,RS Umum Daerah Kota Dumai,"Jl Tanjung Jati No.4, Dumai.",RIAU,293,77,96,173,0,0,120,0,1.6745,101.45517
+1471259,RS Ibu dan Anak Andini,Jl Tuanku Tambusai No.55 - Pekanbaru,RIAU,35,0,17,17,0,18,18,0,0.505772,101.437149
+1471226,RS Umum Awal Bros Pekanbaru,Jl Sudirman No.117 Pekanbaru,RIAU,10,5,2,7,1,1,3,1,0.49710299999999996,101.455803
+1471161,RS Umum Bina Kasih,"Jl Samanhudi No.3-5,Pekanbaru",RIAU,2,0,0,0,0,0,2,0,0.533333,101.449997
+1471150,RS Prof. Dr. Tabrani,"Jl Jend. Sudirman 410, Pekanbaru",RIAU,7,3,4,7,0,0,0,0,0.504622,101.452332
+1471146,RS Jiwa Tampan,"Jl H.R. Subrantas Km.12,5 Pekanbaru",RIAU,460,229,77,306,0,0,154,0,0.46485,101.382301
+1471055,RS Santa Maria Pekanbaru,Jl Ahmad Yani No. 68 Rt/Rw 001/001 Kel.Pulau Karam Kec. Sukajadi,RIAU,194,0,0,0,0,0,194,0,0.52805,101.44315300000001
+1409022,RS Umum Daerah Dr. R.M. Pratomo Bagansiapiapi,"Jl Pahlawan No.13, Bagansiapiapi",RIAU,135,42,53,95,0,0,40,0,1.466544,102.250908
+1408055,RS Umum Mutia Sari,Jl Kebun Karet No 5 Kel. Air Jamban Duri - Riau,RIAU,60,4,15,19,0,0,41,0,1.466544,102.250908
+1408032,RS Umum Daerah Kec.Mandau,Jl Stadion No.10 Duri Bengkalis,RIAU,181,34,33,67,38,47,114,0,1.259619,101.21309699999999
+1408011,RS Umum Daerah Bengkalis,"Jl Kelapapati Tengah No.90, Bengkalis",RIAU,189,40,70,110,0,0,79,0,1.466544,102.250908
+1407011,RS Umum Daerah Rokan Hulu,"Jl Syekh Ismail, Pasir Pengaraian",RIAU,132,89,114,203,0,0,-71,0,0.874447,100.288467
+1406031,RS Umum Tandun,Kebun Tandun Komplek PTPN V Desa Talang danto Kec. Tapung Hulu Kab. Kampar Riau,RIAU,130,61,35,96,0,0,34,0,0.6274310000000001,100.606873
+1406016,RS Umum Daerah Bangkinang,"Jl Lingkar Bangkinang-Batu Belah, Kampar, Riau",RIAU,155,13,25,38,0,0,117,0,0.34616399999999997,101.118904
+1405015,RS Umum Daerah Siak,"Jl Raja Kecik No.1 Kampung dalam,Siak Sri Indrapura",RIAU,151,20,31,51,0,0,100,0,0.7832560000000001,102.069801
+1404025,RS Umum Efarina Etaham,"Jl Lintas Timur No.1, Pangkalan Kerinci - Riau",RIAU,117,0,0,0,0,0,117,0,0.262411,101.661568
+1404014,RS Umum Daerah Selasih Riau,Jl Rumah Sakit No.01 Pkl Kerinci,RIAU,116,14,13,27,27,48,89,0,0.402944,101.84528399999999
+1403013,RS Umum Daerah Puri Husada Tembilahan,Jl Veteran No. 52 Tembilahan,RIAU,126,41,75,116,0,0,10,0,-0.34710599999999997,103.169197
+1402012,RS Umum Daerah Indrasari Rengat,Jl Lintas Timur Sumatera Rengat,RIAU,158,31,45,76,0,0,82,0,-0.39403299999999997,102.441734
+1401011,RS Umum Daerah Teluk Kuantan,Jl Kesehatan No. 1 Sinambek,RIAU,95,7,5,12,34,49,83,0,-0.531417,101.564575
+1571158,RS Umum Daerah H. Abdul Manap,Jl. SK.Rd.Syahbuddin Kel. Mayang Mangurai Kec.Kota Baru Jambi,JAMBI,156,10,11,21,63,72,135,0,-1.6500110000000001,103.625473
+1571136,RS Jiwa Daerah Provinsi Jambi,"Jl. Dr. Purwadi Km.9,5 Jambi",JAMBI,316,3839,1632,5471,3835,1632,-5155,0,-1.6185969999999998,103.554153
+1571067,RS Umum Mayang Medical Centre,"Jl. Ir.H. Juanda No.56 Simp III Sipin, Jambi",JAMBI,105,22,46,68,17,16,37,0,-1.630422,103.550972
+1509013,RS Umum Daerah H. Hanafie,Jl. Teuku Umar 88  Muara Bungo,JAMBI,243,101,92,193,13,36,50,0,-1.509428,101.960617
+1508013,RS Umum Daerah Sultan Thaha Saifuddin,Jl. Sultan Thaha Saifuddin KM. 04 Muara Tebo,JAMBI,128,10,18,28,33,44,100,0,-1.4840360000000001,102.276222
+1507010,RS Umum Daerah KH. Daud Arif,"Jl. Syarif Hidayatullah, No. 14 Kuala Tungkal",JAMBI,112,21,28,49,25,31,63,0,-1.132839,103.062416
+1506011,RS Umum Daerah Nurdin Hamzah,Jl. WR. Supratman Kel. Parit Culum I Kec. Muara Sabak Barat,JAMBI,51,11,12,23,9,18,28,0,-1.1364610000000002,104.007568
+1505027,RS Umum Daerah Sungai Bahar,Jl. Soekarno Hatta Desa Suka Makmur Kecamatan Sungai Bahar Kabupaten Muaro Jambi,JAMBI,63,2,5,7,6,12,56,0,-1.858228,103.550133
+1505016,RS Umum Daerah Ahmad Ripin,Jl. Lintas Timur Komp. Perkantoran Bukit Cinto Kenang,JAMBI,116,1,0,1,35,0,115,0,-1.703128,103.821625
+1504015,RS Umum Daerah Haji Abdoel Madjid Batoe,Jl. Prof. Dr. Sri Soedewi  Muara Bulian,JAMBI,135,16,27,43,35,56,92,0,-1.890811,102.997345
+1503036,RS Umum Daerah Prof. Dr. H. Chatib Quzwain,"Jl. Lintas Sumatera Km.09 Desa Bukit, Sarolangun",JAMBI,153,24,36,60,44,49,93,0,-2.344406,102.684715
+1502014,RS Umum Daerah Kolonel Abundjani/Bangko,"  jl. Kesehatan No.20, Bangko",JAMBI,185,16814,23667,40481,16609,21206,-40296,0,-2.069014,102.276276
+1501012,RS Umum Daerah Mayjen H. A. Thalib,Jl. Basuki Rahmat Sungai Penuh Kabupaten Kerinci,JAMBI,157,74,72,146,5,6,11,0,-2.070419,101.367828
+1674032,RS Umum Daerah Siti Aisyah Kota Lubuk Linggau,"Jl. Lapter Silampari No. 20 Rt. 01 Kel.Air Kuti,Lubuk Linggau Timur I ",SUMATERA SELATAN,129,62,42,104,0,0,25,0,-3.269861,102.91947900000001
+1674010,RS Umum Daerah Dr. Sobirin Kabupaten Musi Rawas,Jl. Yos Sudarso No. 13 Kelurahan Pasar Pemiri Kecamatan Lubuklinggau Barat II,SUMATERA SELATAN,155,43,40,83,32,41,72,0,-3.296897,102.85990100000001
+1673031,RS Umum Daerah Basemah Kota Pagar Alam,   Jl. AIS Nasution No.3,SUMATERA SELATAN,163,30,47,77,45,41,86,0,-4.037669,103.265297
+1671323,RS Khusus Mata Masyarakat Provinsi Sumatera Selata, Jl. Kol. H. Burlian KM.6 ,SUMATERA SELATAN,186,6,5,11,29,30,175,0,-2.991144,104.755821
+1671312,RS Khusus Paru Palembang,"    Jl. Merdeka No.10,Palembang",SUMATERA SELATAN,35,0,0,0,19,16,35,0,-2.991144,104.755821
+1671265,RS Umum Daerah Palembang Bari,"    Jl. Panca Usaha No.1 Kel. 5 ulu Seb. Ulu I, PALEMBANG",SUMATERA SELATAN,246,28,37,65,70,111,181,0,-2.962319,104.779945
+1671254,RS Ibu dan Anak Tiara Fatrin Palembang,"Jl. Rajawali No.495-496,Palembang",SUMATERA SELATAN,203,51,67,118,0,45,85,0,-2.927764,104.69965400000001
+1671024,RS Umum Pertamina Palembang,"Komplek Pertamina Plaju, Palembang",SUMATERA SELATAN,60,11,18,29,17,14,31,0,-2.9908639999999997,104.759415
+1671013,RS Umum Pusat Dr. Mohammad Hoesin Palembang,"JL Jendral Sudirman KM 3,5 Palembang",SUMATERA SELATAN,971,215,238,453,0,0,518,0,-2.972911,104.75193
+1609083,RS Umum Daerah Ogan Komering Ulu Timur,    Jl. Raya Belitang Rasuan No.1 Tulus Ayu Kecamatan Belitang Madang Raya,SUMATERA SELATAN,140,15,17,32,38,70,108,0,-4.279208000000001,104.107574
+1608051,RS Umum Daerah Muara Dua,    Jl. Raya Ranau Desa Suka Jaya Kec.Muaradua,SUMATERA SELATAN,80,19,15,34,31,49,46,0,-4.797092,103.383614
+1607012,RS Umum Daerah Banyuasin,"Jl. Raya Palembang - Betung Km.48,Pangkalan Balai Banyuasin",SUMATERA SELATAN,102,50,40,90,8,4,12,0,-2.852836,104.54271700000001
+1606032,RS Umum Daerah Bayung Lincir,"   Jl Raya Palembang-Jambi KM 200 Kec, Bayung Lencir",SUMATERA SELATAN,46,8,15,23,10,13,23,0,-2.254253,103.817955
+1606022,RS Umum Daerah Sungai Lilin,  Jl. Palembang-Jambi Km.117 Kecamatan Sungai Lilin,SUMATERA SELATAN,66,22,20,42,8,13,24,0,-3.319436,103.91439799999999
+1606011,RS Umum Daerah Sekayu,Jl. Kol. Wahid Udin Lingkungan I Kel. Kayuara Kec. Sekayu Kab.Musi Banyuasin,SUMATERA SELATAN,272,0,0,0,0,0,272,0,-2.8921,103.856689
+1605043,RS Umum Daerah Rupit Kabupaten Musi Rawas Utara,Jl.Kesehatan No.1 desa lawang agung kec. Rupit,SUMATERA SELATAN,94,17,10,27,28,39,67,0,-3.2966330000000004,102.8601
+1604016,RS Umum Daerah Lahat,   Jl. Letjend Harun Sohar No.28,SUMATERA SELATAN,220,40,44,84,57,73,136,0,-3.7469,103.424683
+1603085,RS Umum Daerah Talang Ubi,"  Jl. Taman Siswa, Kel. Pasar Bhayangkara, Kec. Talang Ubi",SUMATERA SELATAN,73,6,14,20,26,27,53,0,-3.637486,103.781334
+1603063,RS Umum Daerah dr.H.M.Rabain Muara Enim,    Jl. Sultan Mahmud Badarudin II No. 49,SUMATERA SELATAN,175,39,45,84,32,55,91,0,-3.639906,103.77471899999999
+1602014,RS Umum Daerah Kayuagung," Jln.Letjen Yusuf Singedekane No,1 Kel Jua Jua, Kayuagung",SUMATERA SELATAN,241,18,31,49,89,103,192,0,-4.094692,104.16632800000001
+1601013,RS Umum Daerah Dr. Ibnu Sutowo Baturaja,"    Jl. Dr. Moh.Hatta No.1,Baturaja",SUMATERA SELATAN,164,23,31,54,48,61,110,0,-4.279208000000001,104.107574
+1771051,RS Bhayangkara Jitra Kota Bengkulu,Jl. Veteran No.2 Kelurahan Jitra Kota Bengkulu,BENGKULU,110,7,8,15,46,49,95,0,-3.792364,102.25428000000001
+1771040,RS Tk. IV Bengkulu,Jl. Zainul Arifin RT 05/01 Kel. Padang Nangka Kecamatan Singaran Pati Bengkulu,BENGKULU,75,25,33,58,8,9,17,0,-3.80065,102.256203
+1771025,RS Jiwa Soeprapto Provinsi Bengkulu,Jl. Bhakti Husada Lingkar Barat Bengkulu,BENGKULU,300,98,26,124,123,49,176,0,-3.80065,102.256203
+1771014,RS Umum Daerah Dr. M. Yunus Bengkulu,  Jl. Bayangkara Kel. Sido Mulyo Kec. Gading Cempaka Kota Bengkulu,BENGKULU,374,44,33,77,129,135,297,0,-3.833831,102.31343100000001
+1709038,RS Umum Daerah Bengkulu Tengah,"   Jl. Raya Bengkulu - Kepahiang  Km.27,5 Desa Durian Demang Kecamatan Karang Tinggi Kabupaten Bengk",BENGKULU,70,1,6,7,30,33,63,0,-3.80065,102.256203
+1708010,RS Umum Daerah Kepahiang,Jl. Lintas Kepahiang-Bengkulu KM 03 Desa Tebat Monok Kepahiang,BENGKULU,195,32,25,57,63,79,138,0,-3.643758,102.573982
+1707026,RS Umum Daerah Lebong,Desa Muning Agung Kecamatan Lebong Sakti,BENGKULU,59,9,8,17,18,24,42,0,-2.9926169999999996,104.382202
+1706019,RS Umum Daerah Mukomuko,    Jl. Danau Nibung Desa Kota Praja Kecamatan Air Manjunto Kabupaten Mukomuko Provinsi Bengkulu,BENGKULU,136,28,34,62,37,38,74,0,-2.575764,101.117302
+1705018,RS Umum Daerah Tais Kabupaten Seluma, Jl. Raya KM. 64 Selebar Kabupaten Seluma,BENGKULU,67,4,8,12,24,31,55,0,-4.049086,102.527924
+1703027,RS Bergerak Enggano,Jl. Raya Malakoni KM 3 Kecamatan Enggano Kabupaten Bengkulu Utara,BENGKULU,10,1,0,1,4,5,9,0,-2.666489,101.344353
+1703016,RS Umum Daerah Arga Makmur,Jl. Siti Khadijah No. 08 Arga Makmur Kabupaten Bengkulu Utara,BENGKULU,131,32,45,77,17,32,54,0,-2.666489,101.344353
+1702015,RS Umum Daerah Curup,Jl. Basuki rahmat No. 10 Dwi Tunggal Curup,BENGKULU,174,23,40,63,27,44,111,0,-3.4574529999999997,102.55326099999999
+1701014,RS Umum Daerah Hasanuddin Damrah Manna,Jl. Raya Padang Panjang Manna Kabupaten Bengkulu Selatan,BENGKULU,155,0,0,0,0,0,155,0,-3.80065,102.256203
+1872016,RS Umum Daerah Ahmad Yani Metro,Jl.Jend. A.Yani No.13 Kota Metro,LAMPUNG,243,108,126,234,11,1,9,0,-5.113942,105.305733
+1871176,RS Jiwa Bandar Lampung, Jl. Raya Gd.Tataan KM 13 Bandar Lampung,LAMPUNG,125,68,17,85,25,15,40,0,-5.45,105.26666999999999
+1808015,RS Umum Daerah Menggala Tulang Bawang,"Menggala,Kab.Tulang Bawang",LAMPUNG,111,0,0,0,10,11,111,0,-4.610283,105.22103899999999
+1807014,RS Umum Daerah Zainal Abidin Pagar Alam,"   Jl. Raya Lintas Sumatera, Blambangan Umpu",LAMPUNG,45,7,10,17,12,15,28,0,-5.379453,105.25293700000002
+1806013,RS Umum Daerah May Jen HM Ryacudu,Jl. Jend.Sudirman No.2 Kotabumi,LAMPUNG,20,0,0,0,0,0,20,0,-4.8355,104.891998
+1805034,RS Umum Daerah Demang Sepulau Raya,       Jl. Raya Lintas Sumatera Kampung Terbanggi Agung Kec.Gunung Sugih Kab.Lampung Tengah,LAMPUNG,131,6,14,20,50,61,111,0,-5.0531,105.20165300000001
+1805024,RS Umum Islam Asy-Syifaa Bandar Jaya,Jl. Lintas Sumatera KM 65 Yukum Jaya Terbanggi Besar Bandar Jaya,LAMPUNG,4,1,1,2,1,1,2,0,-4.851478,104.849434
+1804011,RS Umum Daerah Sukadana," Jl. Letnan Adnan Sanjaya,Lintas Timur,Sukadana,Lamp.Timur",LAMPUNG,100,46,54,100,46,54,0,0,-5.108719000000001,105.614967
+1803010,RS Umum Daerah Pringsewu,   Jl. Lintas Barat Pekon Fajar Agung Barat Kec. Pringsewu,LAMPUNG,167,38,36,74,45,48,93,0,-5.355564,104.965096
+1802038,RS Umum Mitra Husada,"Jl. Jend.A.Yani No.14 Pringsewu,Kab.Pringsewu",LAMPUNG,42,0,0,0,0,0,42,0,-5.459672,104.703163
+1802027,RS Umum Daerah Kota Agung,"   Jl. Soekarno Hatta Komplek Islamic Centre Kotaagung,Kab.Tanggamus",LAMPUNG,99,9,7,16,10,24,83,0,-4.146069000000001,103.516319
+1801017,RS Umum Daerah Dr H Abdul Moeloek,"   Jl. Dr. Rivai 6,Penengahan B.Lampung",LAMPUNG,607,113,100,213,0,0,394,0,-5.79025,105.717064
+1801015,RS Umum Daerah Liwa,"Jl. Teuku Umar No. 3, Lampung Barat",LAMPUNG,134,41,34,75,26,33,59,0,-5.356681,104.035362
+1971043,RS Bakti Timah Pangkalpinang,"Jl. Bukit Baru No.1, Kel.Taman Bunga Kec.Gerunggang Pangkal Pinang",KEPULAUAN BANGKA BELITUNG,149,34,45,79,34,36,70,0,-2.230789,106.13456699999999
+1971021,RS Umum Daerah Depati Hamzah,"  Jl. Soekarno Hatta,Kota PangkalPinang",KEPULAUAN BANGKA BELITUNG,3,0,0,0,0,0,3,0,-2.230803,106.13460500000001
+1906014,RS Umum Daerah Kab.Belitung Timur,Jl. Raya Manggar Gantung Desa Padang Kecamatan Manggar,KEPULAUAN BANGKA BELITUNG,114,13,17,30,37,47,84,0,-2.876919,107.91266599999999
+1905024,RS Umum Daerah Kab. Bangka Selatan,   Jl. Raya Gadung Desa Gadung Kec. Toboali ,KEPULAUAN BANGKA BELITUNG,24,0,0,0,0,0,24,0,-2.9270560000000003,108.06488799999998
+1904013,RS Umum Daerah Kab.Bangka Tengah," Jl. By Pass No 01 Kec.Koba,Kab. Bangka Tengah",KEPULAUAN BANGKA BELITUNG,76,36,36,72,2,2,4,0,-2.4439,106.20016499999998
+1903013,RS Umum Daerah Sejiran Setason," Jl. Kadur Dalam, Ds Belo Laut Kecamatan Muntok",KEPULAUAN BANGKA BELITUNG,116,18,28,46,33,37,70,0,-1.837403,105.445778
+1902010,RS Umum Daerah dr. H. Marsidi Judono," Jl. Jend. Sudirman Km 5,5 Desa Aik Rayak Tanjungpandan",KEPULAUAN BANGKA BELITUNG,120,29,40,69,0,0,51,0,-2.857611,107.95556599999999
+1901020,RS Jiwa Sungai Liat,   Jl. Jend Sudirman No. 345 Kel. Parit Padang Kec. Sungai Liat ,KEPULAUAN BANGKA BELITUNG,152,68,21,89,112,40,63,0,-1.9049470000000002,106.08126100000001
+1901016,RS Umum Daerah Depati Bahrin,"Jl. Jend Sudirman No.195, Kel.Parit Padang Kec.Sungailiat Propinsi Kepulauan Bangka Belitung",KEPULAUAN BANGKA BELITUNG,134,20,15,35,43,58,99,0,-1.8833080000000002,106.138687
+2004012,RS Umum Daerah Dabo Kabupaten Lingga,"Jl. Kesehatan No.1, Dabo Singkep Kabupaten Lingga",KEPULAUAN RIAU,57,5,4,9,26,22,48,0,-0.553581,104.4814
+2003011,RS Umum Daerah Natuna,"  Jl. H.Ali Murtopo,Natuna",KEPULAUAN RIAU,84,12,17,29,20,35,55,0,3.94565,108.14286799999999
+2001045,RS Umum Bhakti Timah,"Jl. Canggai Putri, Kel. Teluk Uma, Kec. Tebing",KEPULAUAN RIAU,85,15,38,53,0,0,32,0,1.083333,104.48333000000001
+2001013,RS Umum Daerah Muhammad Sani Kabupaten Karimun, Jl. Soekarno - Hatta No. 1 Tanjung Balai Karimun,KEPULAUAN RIAU,187,23,31,54,0,0,133,0,0.9077,103.450035
+3175341,RS Umum Pluit,Jl. Raya Pluit Selatan 2 Jakut,DKI JAKARTA,139,0,0,0,0,0,139,0,-6.125578,106.798332
+3175064,RS Penyakit Infeksi Prof. Dr. Sulianti Saroso,Jl. Baru Sunter Permai Raya Jakarta Utara,DKI JAKARTA,176,35,35,70,0,0,106,0,-6.130389,106.86200000000001
+3175016,RS Umum Daerah Koja," Jl. Deli No.4 Tanjung Priok,Jakut",DKI JAKARTA,927,108,125,233,52,68,694,0,-6.108861,106.900002
+3174074,RS Umum Daerah Cengkareng,Jl.Kamal Raya Bumi Cengkareng Indah Cengkareng Timur,DKI JAKARTA,414,86,126,212,0,0,202,0,-6.14275,106.735001
+3174063,RS Kanker Dharmais,               Jl. S Parman Kav.84-86 Slipi Jakarta Barat,DKI JAKARTA,441,107,117,224,159,58,217,0,-6.186967,106.797752
+3174041,RS Jiwa Dr. Soeharto Heerjan,Jl. Prof.Dr.Latumeten No. 1 Jakarta Barat,DKI JAKARTA,301,130,55,185,0,0,116,0,-6.162481,106.788002
+3173521,RS Umum Daerah Tarakan,Jl. Kyai Caringin Jakarta Pusat,DKI JAKARTA,696,227,208,435,285,285,261,0,-6.172839,106.806458
+3173120,RS Ibu dan Anak Bunda,Jl. Teuku Cik Ditiro No. 28 Menteng,DKI JAKARTA,81,6,42,48,2,31,33,0,-6.1959029999999995,106.836533
+3173062,RS PGI Cikini,Jl. Raden Saleh No. 40 Jakpus,DKI JAKARTA,314,30,28,58,0,0,256,0,-6.191483,106.84198
+3173014,RSUPN Dr. Cipto Mangunkusumo,    Jl. Diponegoro 71 Jakarta Pusat,DKI JAKARTA,1091,362,352,714,0,0,377,1901,-6.196661,106.84515400000001
+3172746,RS Jiwa Duren Sawit,Jl. Duren Sawit Baru Jakarta Timur,DKI JAKARTA,150,85,59,144,6,0,6,0,-6.232133,106.90886699999999
+3172735,RS Jiwa Islam Klender,Jl. Bunga Rampai X P.Klender Jaktim,DKI JAKARTA,50,15,12,27,15,8,23,0,-6.221719,106.934692
+3172713,RS Umum Mediros,Jl. Perintis Kemerdekaan  Kav.149 Jakarta Timur,DKI JAKARTA,11,1,0,1,6,4,10,0,-6.179628,106.903824
+3172505,RS Umum Islam Jakarta Timur,Jl. Raya Pondok Kopi Jakarta Timur,DKI JAKARTA,14,0,0,0,0,0,14,0,-6.220206,106.94009399999999
+3172024,RS Umum Daerah Budhi Asih,"Jl. Dewi Sartika, Cawang III/ 200,Jakarta Timur",DKI JAKARTA,430,110,124,234,0,30,196,0,-6.256169,106.86336499999999
+3172013,RSUP Persahabatan,"    Jl. Persahabatan Raya No. 1,Jaktim",DKI JAKARTA,585,36,11,47,0,0,538,0,-6.204058,106.884773
+3171757,RS Bersalin Durentiga,Jl. Duren Tiga Raya No.5 Pancoran Jaksel,DKI JAKARTA,29,0,5,5,0,20,24,0,-6.253381,106.841003
+3171702,RS Ibu dan Anak Zahirah,"Jl. Sirsak No.21 RT/RW 009/001,Jagakarsa,Jaksel",DKI JAKARTA,3,1,2,3,0,0,0,0,-6.335719,106.8237
+3171450,RS Umum Setia Mitra,"Jl. Fatmawati No. 80-82,Jaksel",DKI JAKARTA,61,5,12,17,19,25,44,0,-6.269361,106.806053
+3171012,RSUP Fatmawati," Jl. RS Fatmawati Cilandak,Jaksel",DKI JAKARTA,714,122,128,250,0,0,464,0,-6.294844,106.79556299999999
+3278081,RS Umum Prasetya Bunda,"Jl. Ir. H. Juanda No.1, Indihiang Kota Tasikmalaya",JAWA BARAT,52,0,0,0,0,0,52,0,-7.305178,108.204903
+3277020,RS Umum Daerah Cibabat, Jl. Jend. H. Amir Machmud No. 140 Kel. Cibabat Kec. Cimahi Utara,JAWA BARAT,545,136,80,216,9,21,329,0,-6.87965,107.550835
+3276135,RS Umum Simpangan Depok,"Jl. Raya Bogor Km.36,Sukamaju Sukmajaya Depok",JAWA BARAT,22,10,10,20,12,12,2,0,-6.408589,106.861
+3276124,RS Umum Daerah Kota Depok, Jl. Raya Muchtar No. 99 Sawangan ,JAWA BARAT,29,11,11,22,9,9,7,0,-6.395,106.79675300000001
+3275013,RS Umum Daerah dr. Chasbullah Abdulmadjid,Jl. Pramuka No. 55 Bekasi,JAWA BARAT,709,316,336,652,23,47,57,0,-6.268111,107.082497
+3274016,RS Umum Daerah Gunung Jati,  Jl. Kesambi No.56 Cirebon - 45134,JAWA BARAT,290,68,36,104,188,188,186,0,-6.731180999999999,108.555885
+3273539,RS Umum Hermina Pasteur,Jl. Dr. Djundjunan No.107 Kota Bandung,JAWA BARAT,105,26,29,55,17,33,50,0,-6.895614,107.588509
+3273528,RS Ibu dan Anak Melinda,"Jl. Pajajaran No.46 Kel Pasirkaliki, Kec. Cicendo, Kota Bandung",JAWA BARAT,839,242,282,524,17,47,315,0,-6.906814,107.60336299999999
+3273486,RS Umum Santosa Hospital Bandung Central,"Jl. Kebon Jati No.38,Bandung",JAWA BARAT,382,143,136,279,0,0,103,0,-6.918497,107.59816000000001
+3273453,RS Khusus Ginjal NY R.A. Habibie,Jl. Tubagus Ismail No. 46 Kota Bandung,JAWA BARAT,839,242,282,524,17,47,315,0,-6.885364,107.619629
+3273420,RS Umum Al-Islam Bandung,Jl. Soekarno. Hatta 644 Bandung,JAWA BARAT,265,0,0,0,58,74,265,38,-6.939222,107.668999
+3273405,RS Umum Daerah Kota Bandung,"  Jl. Rumah Sakit 22 Ujung Berung, Kota Bandung",JAWA BARAT,212,34,29,63,41,55,149,0,-6.915342,107.698669
+3273201,RS Paru Dr. H. A. Rotinsulu,Jl. Bukit Jarian No. 40 Bandung,JAWA BARAT,116,30,22,52,0,0,64,0,-6.877661,107.60656000000002
+3273191,RS Khusus Mata Cicendo,  Jl. Cicendo No.4 Bandung,JAWA BARAT,104,20,17,37,0,0,67,32,-6.9099,107.603996
+3273121,RS Umum Rajawali,Jl. Rajawali No.38 Kota Bandung,JAWA BARAT,839,242,282,524,17,47,315,0,-6.91255,107.572998
+3273052,RS Umum Immanuel Bandung,Jl. Kopo 161 Bandung,JAWA BARAT,865,320,206,526,14,47,339,0,-6.93545,107.596001
+3273030,RS Umum Lanud dr. M. Salamun,Jl. Ciumbuleuit 203 Bandung,JAWA BARAT,193,64,71,135,25,33,58,0,-6.864889,107.605003
+3273026,RS Umum Sartika Asih,Jl. Moch. Toha No. 369 Bandung,JAWA BARAT,249,55,49,104,0,0,145,0,-6.9563440000000005,107.61211399999999
+3273015,RS Umum Pusat Dr. Hasan Sadikin,   Jl. Pasteur No. 38 Bandung,JAWA BARAT,1001,150,112,262,0,0,739,1223,-6.899186,107.59826699999999
+3272014,RS Umum Daerah R Syamsudin SH,   Jl. Rumah Sakit No. 1 Kota Sukabumi,JAWA BARAT,594,116,113,229,167,204,365,0,-6.914967,106.934547
+3271046,RS Jiwa dr. H. Marzoeki Mahdi,Jl. dr. Sumeru No.114 Kota Bogor,JAWA BARAT,695,254,115,369,151,86,326,0,-6.589422,106.793076
+3271035,RS Umum Dr Muhamad Hassan Toto,"Jl. Sardjio No. 1, Semplak Kec. Kemang",JAWA BARAT,144,31,38,69,43,32,75,0,-6.544467,106.76233700000002
+3271013,RS Umum PMI Bogor,Jl. Raya Pajajaran No. 80 Bogor,JAWA BARAT,252,59,57,116,57,79,136,0,-6.597042,106.806114
+3216351,RS Umum Kartika Husada,"Jl. Raya Mangunjaya No.07 Kp.Rukem,Tambun - Bekasi",JAWA BARAT,51,12,26,38,5,8,13,0,-6.244592,107.06462900000001
+3216252,RS Umum Daerah Kab.Bekasi," Jl. Teuku Umar Cibitung,Bekasi",JAWA BARAT,19,14,14,28,5,5,-9,0,-6.266789,107.082001
+3216163,RS Umum Sentra Medika,Jl. Raya Industri Pasirgombong Cikarang ,JAWA BARAT,129,43,0,43,0,0,86,0,-6.259333,107.171974
+3216126,RS Umum Annisa,Jl. Cikarang Baru No.31 Cikarang Utara Bekasi,JAWA BARAT,231,0,0,0,0,0,231,0,-6.273236,107.173828
+3215145,RS Umum Mandaya,Jl. Arteri Tol Karawang  Barat Teluk jambe Karawang,JAWA BARAT,48,0,0,0,0,0,48,0,-6.304144,107.277992
+3215112,RS Ibu dan Anak Dr. Djoko Pramono,"Jl. Panatayuda I No.35, Karawang",JAWA BARAT,32,3,17,20,0,12,12,0,-6.306842,107.305603
+3215100,RS Umum Delima Asih Sisma Medika,"Jl. Wirasaba No.54, Johar - Karawang",JAWA BARAT,77,14,29,43,12,17,34,0,-6.3152,107.316002
+3215078,RS Umum Islam Karawang,"Jl. Pangkal Perjuangan KM.2, Karawang",JAWA BARAT,49,9,25,34,6,9,15,0,-6.28195,107.283501
+3215056,RS Umum Karya Husada,Jl. Jend. A.Yani No.98 Cikampek Karawang,JAWA BARAT,23,5,5,10,18,18,13,0,-6.40135,107.444
+3215023,RS Umum Bayukarta,Jl. Kertabumi No.44 Karawang,JAWA BARAT,1,0,0,0,0,0,1,0,-6.314722,107.31723799999999
+3215012,RS Umum Daerah Karawang," Jl. Galuh Mas Raya No.1, Sukaharja, Teluk Jambe, Karawang",JAWA BARAT,397,101,114,215,0,0,182,0,-6.257053,107.32285300000001
+3214011,RS Umum Daerah Bayu Asih,Jl. Veteran No. 39 Purwakarta,JAWA BARAT,221,45,53,98,53,70,123,0,-6.525947,107.44767
+3213010,RS Umum Daerah Subang, Jl. Brigjen Katamso No. 37 Ciereng,JAWA BARAT,351,115,143,258,0,0,93,0,-6.814481,107.94918100000001
+3212053,RS Umum Permata Medical Center,Jl. Raya Panyindangan Wetan Kab. Indramayu,JAWA BARAT,56,0,0,0,0,0,56,0,-6.3926940000000005,108.287544
+3212042,RS Umum Bhayangkara Indramayu, Jl. Raya Pantura Km.73-75 Losarang - Indramayu,JAWA BARAT,52,0,0,0,0,0,52,0,-6.382319,108.151634
+3212031,RS Umum Daerah M.A. Sentot Patrol,Jl. Raya Patrol Km. 46 Patrol Kab. Indramayu,JAWA BARAT,96,36,33,69,16,8,27,0,-6.8291830000000004,107.70253000000001
+3212016,RS Umum Daerah Kab. Indramayu,Jl. Murah Nara No. 7 Sindang Indramayu,JAWA BARAT,330,69,107,176,71,81,154,0,-6.3926940000000005,108.287544
+3211015,RS Umum Daerah Sumedang,Jl. Prabu Geusan Ulun No 41 Jl. Palasari No. 80 Kabupaten Sumedang,JAWA BARAT,152,0,0,0,0,0,152,0,-6.858028,107.921074
+3210036,RS Bedah Budi Kasih,Jl. Raya Majalengka - Kadipaten Km.7 no 84,JAWA BARAT,18,3,0,3,15,0,15,0,-6.765569,108.16746499999999
+3210025,RS Umum Daerah Cideres,Jl. Raya Cideres - Kadipaten No. 180 Bojong Cideres Dawuan ,JAWA BARAT,247,70,77,147,0,0,100,0,-6.757503,108.196114
+3210014,RS Umum Daerah Majalengka, Jl. Kesehatan No.77 Majalengka,JAWA BARAT,192,41,51,92,0,0,100,0,-6.833375,108.23326100000001
+3209040,RS Umum Daerah Arjawinangun,Jl. Palimanan - Jakarta KM. 2 No. 1  Arjawinangun,JAWA BARAT,389,92,121,213,72,101,176,0,-6.652844,108.411911
+3209036,RS Paru Provinsi Jawa Barat,"  Jl. Pangeran Kejaksan PO.BOX 4 Desa Sidawangi, Kecamatan Sumber Kab. Cirebon",JAWA BARAT,81,11,6,17,32,32,64,0,-6.750111,108.52493999999999
+3209014,RS Umum Daerah Waled," Jl. Prabu Kiansantang No. 4 Waled, Cirebon",JAWA BARAT,558,111,160,271,144,136,287,0,-6.914228,108.71781899999999
+3208013,RS Umum Daerah 45 Kuningan,Jl. Jendral Sudirman No. 68 Kuningan,JAWA BARAT,280,68,118,186,23,73,94,0,-6.982614,108.487427
+3207023,RS Umum Daerah Banjar,  Jl. Rumah Sakit No. 5 Kota Banjar,JAWA BARAT,32,14,13,27,5,0,5,0,-7.369864,108.572548
+3207012,RS Umum Daerah Kab. Ciamis,   Jl. Rumah Sakit No.76 Ciamis,JAWA BARAT,314,118,127,245,34,34,69,0,-7.329803,108.35932199999999
+3206070,RS Umum Jasa Kartini,Jl. Otto Iskandar Dinata No 15,JAWA BARAT,197,93,103,196,1,0,1,0,-7.326289,108.222458
+3205010,RS Umum Daerah dr. Slamet Garut,Jl. Rumah Sakit No.12 Garut,JAWA BARAT,860,184,276,460,218,77,400,125,-7.2197059999999995,107.89713300000001
+3204090,RS Umum Daerah Soreang, Jl. Alun-Alun Utara No. 1 Soreang,JAWA BARAT,209,58,92,150,32,34,59,0,-7.0260419999999995,107.51714299999999
+3204086,RS Umum Daerah Al Ihsan Provinsi Jawa Barat,  Jl. Ki Astramanggala Bale Endah Kab. Bandung,JAWA BARAT,307,111,82,193,53,53,114,0,-7.0081,107.624001
+3204041,RS Umum Kebonjati,Jl. Kebonjati No. 152  Kel. Kebon Jeruk Kec. Andir kota Bandung,JAWA BARAT,187,63,59,122,5,11,65,0,-6.916086,107.59626000000002
+3204016,RS Umum Daerah Majalaya,  Jl. Raya Cipaku No.87 Majalaya Kabupaten Bandung,JAWA BARAT,196,94,101,195,0,0,1,0,-7.0486580000000005,107.772278
+3203037,RS Umum Daerah Cimacan," Jl. Raya Cimacan No.17, Cianjur",JAWA BARAT,149,22,38,60,0,0,89,0,-6.720447,107.031807
+3203015,RS Umum Daerah Sayang, Jl. Rumah Sakit No.1 Cianjur,JAWA BARAT,829,135,148,283,0,0,546,3,-6.812192,107.14103700000001
+3202051,RS Umum Daerah Jampang Kulon,"  Jl. Cibarusah No.1 Jampang Kulon, Kab.Sukabumi",JAWA BARAT,190,49,64,113,26,41,77,0,-6.9196,106.9272
+3202040,RS Umum Daerah Palabuhanratu, Jl. Ahmad Yani No.2 Palabuhanratu,JAWA BARAT,217,47,56,103,31,28,114,0,-6.9923720000000005,106.55728899999998
+3202014,RS Umum Daerah Sekarwangi, Jl. Siliwangi No. 49 Cibadak Sukabumi,JAWA BARAT,10,3,6,9,1,0,1,0,-6.894764,106.78600300000001
+3201050,RS Umum Daerah Ciawi, Jl. Raya Puncak 479 Ciawi Bogor,JAWA BARAT,278,70,50,120,0,0,158,0,-6.6538889999999995,106.87381699999999
+3201046,RS Umum Daerah Cibinong,JL. KSR Dadi Kusmayadi No. 27 Cibinong Bogor,JAWA BARAT,341,114,122,236,148,69,105,0,-6.473292,106.831207
+3201024,RS Paru Dr. M. Goenawan Partowidigdo," Jl. Raya Puncak KM.83, Po Box 28 Cisarua Bogor 16750",JAWA BARAT,180,49,19,68,0,0,112,0,-6.687447,106.93904099999999
+3376034,RS Umum Tk.IV Tegal,  Jl. RS DKT PAGONGAN TEGAL,JAWA TENGAH,49,154,153,307,154,153,-258,0,-6.911778,109.134491
+3376012,RS Umum Daerah Kardinah," Jl. KS Tubun No.2, Kota Tegal",JAWA TENGAH,863,215,242,457,0,0,406,0,-6.884636,109.13575
+3375071,RS Umum Karomah Holistic,"Jl. Gajah Mada Barat No.124,Pekalongan",JAWA TENGAH,35,4,0,4,22,30,31,0,-6.889619000000001,109.65248899999999
+3374353,RS Ibu dan Anak Kusuma Pradja,"Jl. Bugangan Raya No.3 - 5,Semarang",JAWA TENGAH,29,0,2,2,5,27,27,0,-6.975086,110.437225
+3374342,RS Umum Daerah K.M.R.T Wongso Negoro,  Jl. Fatmawati Raya No.1,JAWA TENGAH,499,316,38,354,121,24,145,13,-7.037419,110.46426399999999
+3374273,RS Ibu dan Anak Anugerah,"Jl. Kalisari Baru No.5-7,Semarang",JAWA TENGAH,20,5,0,5,15,0,15,0,-6.99245,110.404999
+3374134,RS Umum Daerah Tugurejo Semarang,"Jl. WALISONGO KM 8,5 NO 137  Semarang",JAWA TENGAH,153,21,27,48,47,58,105,0,-6.996617,110.372543
+3374123,RS Jiwa Daerah Dr. Amino Gondohutomo,"Jl. Brigjen Sudiarto No. 347, Pedurungan, Kota Semarang",JAWA TENGAH,351,153,104,257,0,12,94,0,-7.009886,110.46691899999999
+3374112,RS Umum Panti Wilasa Citarum,Jl. Citarum No 98 Semarang,JAWA TENGAH,199,28,48,76,95,116,123,0,-6.973158,110.434486
+3374076,RS Umum Sultan Agung Semarang,"Jl. Raya Kaligawe Km.4,Semarang",JAWA TENGAH,395,83,72,155,0,0,240,0,-6.955619,110.460999
+3374043,RS Umum Telogorejo Semarang,Jl. KH. Ahmad Dahlan Semarang,JAWA TENGAH,331,146,161,307,0,0,24,0,-6.988278,110.426651
+3374021,RS Umum St. Elisabeth Semarang,"Jl. Kawi No.1,Semarang",JAWA TENGAH,259,63,108,171,0,0,88,0,-7.007989,110.417999
+3374010,RS Umum Pusat Dr. Kariadi,"Jl. Dr. Soetomo No.16,Semarang",JAWA TENGAH,1146,193,240,433,539,135,713,0,-6.994611,110.406998
+3373016,RS Umum Daerah Salatiga," Jl. Osamaliki No.19,Salatiga",JAWA TENGAH,563,204,215,419,138,126,144,0,-7.327033,110.49621599999999
+3372234,RS Umum Daerah Kota Surakarta,"  Jln. Lettu Sumarto No. 1 Kelurahan Kadipiro, Kecamatan Banjarsari, Kota Surakarta",JAWA TENGAH,127,31,48,79,0,0,48,0,-7.5642190000000005,110.82584399999999
+3372180,RSU Islam Surakarta,"Jl. Ahmad Yani, Pabelan, Kartasura, Sukoharjo",JAWA TENGAH,113,17,0,17,96,0,96,0,-7.558947,110.77094299999999
+3372096,RS Umum PKU Muhammadiyah,"Jl. Ronggowarsito 130, Surakarta",JAWA TENGAH,50,17,15,32,9,9,18,0,-7.8006,110.36200000000001
+3372063,RS Orthopedi Prof. Dr. R. Soeharso,"      Jl. Jenderal Ahmad Yani Pabelan, Surakarta 57162",JAWA TENGAH,166,19,16,35,0,0,131,134,-7.55755,110.774002
+3372052,RS Jiwa Daerah Surakarta,"  Jl. K.H. Dewantoro 80, Jebres, Surakarta",JAWA TENGAH,297,154,57,211,105,99,86,0,-7.55715,110.862999
+3372015,RS Umum Daerah Dr. Moewardi Surakarta,"  Jl. Kol Sutarto 132,Surakarta",JAWA TENGAH,854,0,0,0,0,0,854,0,-7.535222,110.837303
+3371105,RS Ibu dan Anak Gladiool,"Jl. Kenanga No.4-6,Magelang",JAWA TENGAH,0,0,0,0,0,0,0,0,-7.482133,110.21548500000002
+3371040,RS Jiwa Prof. Dr. Soerojo, Jl. Jenderal Ahmad Yani 169 Magelang,JAWA TENGAH,506,87,65,152,0,0,354,0,-7.441422,110.22586799999999
+3371025,RS Umum Tk II Dr. Soedjono," Jl. Urip Sumoharjo 48, Magelang",JAWA TENGAH,250,69,67,136,43,62,114,0,-7.46835,110.22680700000001
+3371014,RS Umum Daerah Tidar,"Jl. Tidar No.30 A, Kota Magelang",JAWA TENGAH,280,104,94,198,36,46,82,0,-7.5005440000000005,110.223701
+3329012,RS Umum Daerah Brebes,"Jl. Jend.Sudirman No.181, Brebes",JAWA TENGAH,1187,0,0,0,0,0,1187,0,-6.874686,109.046379
+3328011,RS Umum Daerah dr. Soeselo Slawi Kabupaten Tegal,Jl. Dr. Sutomo No.63 Desa Slawi Kulon Kecamatan Slawi,JAWA TENGAH,362,0,0,0,0,0,362,0,-6.983511,109.140495
+3327032,RS Umum Islam Moga,"Jl. Raya Moga-Pulosari km.02 ,Pemalang",JAWA TENGAH,48,2723,4579,7302,2723,4579,-7254,0,-6.901419000000001,109.41253700000001
+3326049,RS Umum Daerah Bendan Kota Pekalongan,"   Jl. Sriwijaya No.2,Pekalongan",JAWA TENGAH,183,38,64,102,81,74,81,0,-6.894569000000001,109.660103
+3326038,RS Umum Daerah Kajen Kab.Pekalongan,Jl. Raya Karangsari Karanganyar Kab. Pekalongan,JAWA TENGAH,154,70,73,143,76,76,11,0,-6.988967,110.446152
+3325015,RS Umum Daerah Kab. Batang,  Jl. Dr Sutomo No. 42 Batang,JAWA TENGAH,251,0,0,0,0,0,251,0,-6.914681,109.719421
+3324036,RS Umum Islam Kendal,"Jl. Ar.Rahmah No.17 Ds. Ngasinan, Weleri,Kendal",JAWA TENGAH,213,129,0,129,84,0,84,0,-6.9235690000000005,110.06745900000001
+3324014,RS Umum Daerah Dr. H. Soewondo Kendal,"Jl. Laut No. 21, Kendal",JAWA TENGAH,274,75,79,154,60,60,120,0,-6.920664,110.196671
+3323050,RS Umum PKU Muhammadiyah Temanggung,JL. RAYA KEDU KM 2 KALISAT CAMPURSARI BULU TEMANGGUNG,JAWA TENGAH,95,46,30,76,0,0,19,0,-7.291367,110.17336999999999
+3323013,RS Umum Daerah Djojonegoro Temanggung,  Jl.GAJAHMADA 1A ,JAWA TENGAH,230,91,100,191,0,0,39,0,-7.315014,110.178619
+3322023,RS Umum Daerah Ungaran," Jl. Diponegoro 125,Ungaran",JAWA TENGAH,156,48,63,111,0,0,45,0,-7.134375,110.404175
+3322012,RS Umum Daerah Ambarawa,"  Jl. Kartini No.101, Ambarawa",JAWA TENGAH,176,62,76,138,0,0,38,0,-6.956403,110.42201999999999
+3320089,RS Umum PKU Muhammadiyah Mayong,Jl. Pegadaian No. 12 Mayong Jepara,JAWA TENGAH,75,24,33,57,0,0,18,0,-6.750489999999999,110.75617199999999
+3320021,RS Umum Daerah Kelet Provinsi Jawa Tengah,Jl. Raya Kelet KM 33 Jepara,JAWA TENGAH,245,49,54,103,84,80,142,0,-6.495911,110.901711
+3320010,RS Umum Daerah R. A. Kartini,Jl. K.H. Wahid Hasyim Jepara,JAWA TENGAH,215,51,75,126,34,52,89,0,-6.597322,110.67489599999999
+3319032,RS Umum Mardi Rahayu,"Jl. AKBP R Agil 110,Kudus",JAWA TENGAH,338,88,86,174,0,0,164,0,-6.830056,110.831276
+3319010,RS Umum Daerah dr. Loekmono Hadi,"    Jl. Dr. Lukmonohadi No.19,Kudus",JAWA TENGAH,446,136,99,235,0,0,211,0,-6.819756,110.83596000000001
+3318086,RS Umum Daerah Kayen Pati,Jl. Rumah Sakit No.1 Kayen Pati,JAWA TENGAH,69,63,0,63,6,0,6,0,-6.894711,110.985863
+3318064,RS Umum Islam Pati,Jl. Raya Pati-Tayu KM.18Waturoyo Margoyoso Pati,JAWA TENGAH,162,19,25,44,64,52,118,2,-6.604497,111.05310800000001
+3318016,RS Umum Daerah RAA Soewondo, Jl. Dr Soesanto  No. 114,JAWA TENGAH,447,330,30,360,77,10,87,40,-6.738436,111.043365
+3316051,RS Umum PKU Muhammadiyah Cepu,"Jl. Ronggolawe No.137,Cepu",JAWA TENGAH,131,28,47,75,25,31,56,0,-6.971972,111.451256
+3316025,RS Umum Daerah Dr. R. Soeprapto Cepu," Jl. Ronggolawe No. 50,Cepu",JAWA TENGAH,157,34,27,61,0,0,96,0,-7.1485389999999995,111.59477199999999
+3316014,RS Umum Daerah Dr. R. Soetijono Blora,"  Jl. Dr Sutomo No. 42,Blora Jawa Tengah",JAWA TENGAH,165,37,53,90,0,0,75,0,-6.971139,111.42116499999999
+3313042,RS Ibu dan Anak Dian Pertiwi," Jl. Lawu Papahan, Tasikmadu Karanganyar ",JAWA TENGAH,31,0,5,5,0,26,26,0,-7.605706,110.975021
+3313011,RS Umum Daerah Karanganyar,Jl. Laksda Yos Sudarso Karanganyar,JAWA TENGAH,818,448,0,448,370,0,370,0,-7.596503,110.95095800000001
+3312295,RS Umum Medika Mulya,"Jl. Raya Wonogiri-Ngadirojo KM.5,Wonogiri",JAWA TENGAH,9,1,1,2,3,2,7,0,-7.76695,110.99421699999999
+3312284,RS Umum Muhammadiyah Selogiri,"Jl. Lama Bulak, RT.02, RW.04 Desa Nambangan Selogiri, Wonogiri",JAWA TENGAH,71,12,34,46,0,0,25,0,-7.759542,110.883705
+3312273,RS Umum Marga Husada,"Jl. Letjen S.Parman No. 4 Selogiri,Wonogiri",JAWA TENGAH,58,3,3,6,0,0,52,0,-7.789589,110.897682
+3312021,RS Umum Maguan Husada,"Jl. Raya Praci-gribelah Km.6 Suci, Pracimantoro",JAWA TENGAH,90,27,23,50,0,0,40,0,-8.055306,110.808304
+3311213,RS Umum Nirmala Suri,"Jl. Raya Solo Sukoharjo Km.9, Sukoharjo",JAWA TENGAH,66,21,32,53,0,0,13,0,-7.653356,110.835205
+3311027,RS Khusus Bedah Karima Utama," Jl. Amarta 8-10 Ngabeyan Kartasura, Sukoharjo ",JAWA TENGAH,100,23,21,44,0,0,56,0,-7.400447,109.79324299999999
+3311016,RS Umum Daerah Ir. Soekarno Kabupaten Sukoharjo,"Jl. Dr. Muwardi 71, Sukoharjo",JAWA TENGAH,252,27,30,57,0,0,195,0,-7.680761,110.85224199999999
+3310416,RS Umum PKU Muhammdiyah DI,"Jl. Raya Delanggu Utara No. 19, Delanggu",JAWA TENGAH,214,35,68,103,0,0,111,0,-7.619514,110.698753
+3310405,RS Khusus Bedah Diponegoro,"Jl. Diponegoro No.21,Klaten",JAWA TENGAH,66,13,6,19,0,0,47,0,-7.709558,110.614632
+3310384,RS Umum Islam Klaten,"Jl. Raya Klaten Solo KM 4,Klaten",JAWA TENGAH,205,70,69,139,0,0,66,0,-7.6865,110.6362
+3310026,RS Jiwa Daerah Dr. RM. Soedjarwadi,"Jalan Ki Pandanaran Km. 2, Klaten",JAWA TENGAH,199,43,28,71,128,0,128,0,-7.736994,110.590645
+3310015,RS Umum Pusat Dr. Soeradji Tirtonegoro,"Jl. KRT. Suraji Tirtonegoro No.1, Klaten",JAWA TENGAH,365,92,89,181,0,0,184,0,-7.715178,110.58815
+3309107,RS Umum Daerah Simo,"    Jl. Kebon Ijo Ds.Simo Kec.Simo, Boyolali",JAWA TENGAH,74,42,4,46,20,8,28,0,-7.4371279999999995,110.675591
+3309096,RS Umum Daerah Waras Wiris, Jl. Raya Karanggede - Gemolong Km. 13 Andong Kab.Boyolali ,JAWA TENGAH,56,10,13,23,19,15,33,0,-7.431564,110.68840800000001
+3309015,RS Umum Daerah Pandan Arang Boyolali,Jl. Kantil No. 14 Boyolali,JAWA TENGAH,264,120,0,120,144,0,144,0,-7.532997,110.590515
+3308014,RS Umum Daerah Muntilan Kab. Magelang,Jl. Kartini No.13 Muntilan,JAWA TENGAH,202,65,77,142,22,38,60,0,-7.584111,110.29081699999999
+3307050,RS Umum Islam Wonosobo,Jl. Letjen S. Parman Km.3 Wonosobo,JAWA TENGAH,99,33,22,55,25,19,44,0,-7.368678,109.92742199999999
+3307013,RS Umum Setjonegoro Wonosobo," Jl. Setjonegoro No.1,Wonosobo",JAWA TENGAH,218,60,56,116,44,58,102,0,-7.3514,109.905479
+3306023,RS Umum Aisyiyah,"Jl. Mayjend Soetoyo no 113, Purworejo",JAWA TENGAH,19,1,2,3,0,0,16,0,-7.712914,110.016594
+3306012,RS Umum Daerah Dr. Tjitrowardojo Purworejo,  Jl. Jen Sudirman No.60 Purworejo,JAWA TENGAH,311,72,61,133,71,86,178,0,-7.7196169999999995,109.996475
+3305081,RS Umum Wijayakusuma,"Jl. Gelatik No.1 Panjer, Kebumen",JAWA TENGAH,18,0,0,0,18,18,18,0,-7.671208,109.660706
+3304032,RS Umum Islam Banjarnegara,Jl Raya Bawang KM 9 Banjarnegara,JAWA TENGAH,128,101,0,101,27,0,27,0,-7.4014169999999995,109.61611200000002
+3302191,RS Umum Daerah Ajibarang,"    Jl. Raya Pancasan No.1,Ajibarang Banyumas",JAWA TENGAH,214,42,43,85,54,74,129,0,-7.403339,109.09556599999999
+3302143,RS Umum Hidayah Purwokerto,Jl. Supriyadi No. 22 Purwokerto,JAWA TENGAH,52,10,17,27,14,11,25,0,-7.426667,109.25805700000001
+3302121,RS Ibu dan Anak Amanah,Jl Raya Kebokura No.37 Kec Sumpiuh Kab Banyumas,JAWA TENGAH,25,1,6,7,0,18,18,0,-7.613278,109.35968799999999
+3302026,RS Umum Daerah Prof Dr. Margono Soekarjo Purwoker, Jl. Dr Gumbreg No. 1 Purwokerto,JAWA TENGAH,733,184,134,318,130,259,415,0,-7.431653,109.24744399999999
+3302015,RS Umum Daerah Banyumas, Jl. Rumah Sakit No.1 Banyumas,JAWA TENGAH,447,107,114,221,0,0,226,0,-7.530239,109.292
+3301095,RS Bersalin Annisa,Jl. Gatot Subroto 31 A Cilacap,JAWA TENGAH,25,0,1,1,0,24,24,0,-7.7168470000000005,109.01471699999999
+3301084,RS Umum Daerah Majenang, Jl. Dr. Soetomo No. 54 Majenang,JAWA TENGAH,159,32,38,70,26,31,89,0,-7.729342,109.021355
+3301073,RS Umum Islam Fatimah,Jl. Ir.H.Juanda No.20 Cilacap,JAWA TENGAH,189,80,78,158,79,93,31,0,-7.69215,109.024002
+3301036,RS Umum Pertamina Cilacap,"Jl. Dr.Setiabudi Tegal Katilayu, Cilacap",JAWA TENGAH,43,4,8,12,31,31,31,0,-7.702478,109.041519
+3301014,RS Umum Daerah Cilacap,    Jl. Gatot Subroto 28 Cilacap RT 04 / RW O5,JAWA TENGAH,294,79,96,175,0,0,119,0,-7.717258,109.01514399999999
+3471373,RS Happy Land Medical Centre,Jl Ipda Tut Harsono No.53 Timoho Yogyakarta,DI YOGYAKARTA,9,0,2,2,4,3,7,0,-7.790475,110.39353899999999
+3471282,RS Ludira Husada Tama,"Jl Wiratama 4 Tegalrejo, Yogyakarta",DI YOGYAKARTA,35,23,0,23,9,14,12,0,-7.792467,110.353073
+3471271,RS Khusus Bedah Soedirman,Jl Sidobali UH II No. 402 Mujamuju Yogyakarta,DI YOGYAKARTA,26,0,0,0,0,0,26,0,-7.797286,110.394035
+3471234,RS Umum Daerah Kota Yogyakarta,Jl Wirosaban No. 1 Yogyakarta,DI YOGYAKARTA,155,45,27,72,27,12,83,0,-7.825861,110.377998
+3471096,RS Mata Dr. Yap,Jl Cik Di Tiro No. 5 Yogyakarta,DI YOGYAKARTA,36,2,0,2,17,17,34,0,-7.780011,110.375
+3471074,RSPAU Dr. Suhardi Harjolukito,         Jl. Raya Janti Blok O Yogyakarta,DI YOGYAKARTA,219,50,40,90,49,78,129,0,-7.790572,110.410645
+3471063,RS Bethesda Yogyakarta,Jl Jend. Sudirman No. 70 Kotabaru Yogyakarta,DI YOGYAKARTA,0,0,0,0,0,0,0,0,-7.7836110000000005,110.376999
+3471052,RS Umum Panti Rapih,Jl. Cik Di Tiro 30 Yogyakarta,DI YOGYAKARTA,381,164,0,164,164,0,217,0,-7.776339,110.375999
+3471041,RS PKU Muhammadiyah Yogyakarta,Jl K.H. Ahmad Dahlan No. 20 Ngupasan Gondomanan Yogyakarta,DI YOGYAKARTA,184,0,0,0,0,0,184,0,-7.8006,110.36200000000001
+3471030,RS Tk. III 04.06.03 Dr. Soetarto,Jl Juwadi 19 Kotabaru Yogyakarta,DI YOGYAKARTA,70,6,4,10,24,36,60,0,-7.78575,110.37664
+3471026,RS Islam Hidayatullah Yogyakarta,Jl Veteran No.184 Pandeyan Umbulharjo Yogyakarta,DI YOGYAKARTA,99,85,0,85,14,0,14,0,-7.815405999999999,110.387794
+3404168,RS Umum Daerah Prambanan,"Jl Prambanan Piyungan Km.7, Delegan, Sumberharjo, Prambanan, Sleman ",DI YOGYAKARTA,129,21,0,21,98,4,108,0,-7.814464,110.482033
+3404157,RS Umum Sakina Idaman,"Jl Nyi Tjondroloekito No. 60, Sinduadi, Mlati, Sleman",DI YOGYAKARTA,155,22,0,22,0,1,133,0,-7.76955,110.368431
+3404146,RS Islam Yayasan PDHI,"Jl Solo Km 12,5 Kalasan Yogyakarta",DI YOGYAKARTA,108,31,26,57,51,51,51,0,-7.776886,110.457054
+3404124,RS Umum Panti Nugroho,"Jl. Kaliurang  Km.17 Pakem,Sleman",DI YOGYAKARTA,6,0,0,0,2,2,6,0,-7.669028,110.417496
+3404102,RS Umum Panti Rini,"Jl Solo Km 12,5 Krajan Tirtomartani Kalasan Sleman Yogyakarta ",DI YOGYAKARTA,61,20,18,38,10,16,23,0,-7.771761,110.467003
+3404092,RSU Puri Husada Yogyakarta,Jl. Palagan Tentara Pelajar No.67 Km.11 Rejodani Ngaglik Sleman ,DI YOGYAKARTA,43,29,1,30,11,11,13,0,-7.705728,110.386307
+3404081,RS Umum Condong Catur,"Jl Manggis No.6, Gempol, Condong Catur Sleman ",DI YOGYAKARTA,45,3,0,3,0,0,42,0,-7.696006,110.345825
+3404070,RSK Bedah An-Nur,Jl. Colombo No. 14-16 Sleman Yogyakarta,DI YOGYAKARTA,34,2,0,2,0,0,32,0,-7.777183,110.38436899999999
+3404056,RS Jih,Jl Ring Road Utara no. 160 Condongcatur Depok,DI YOGYAKARTA,220,190,0,190,0,0,30,0,-7.759047,110.40299999999999
+3404045,RS Umum Queen Latifa,Jl Ring Road Barat - Mlangi - Nogotirto - Sleman ,DI YOGYAKARTA,20,7,6,13,7,7,7,0,-7.696006,110.345825
+3404033,RS Umum Panti Baktiningsih,"Klepu Sendangmulyo Minggir, Sleman",DI YOGYAKARTA,45,10,0,10,0,0,35,0,-7.756089,110.245003
+3404022,RS Jiwa Grhasia,Jl. Kaliurang Km. 17 Pakem Sleman DIY,DI YOGYAKARTA,470,104,35,139,70,59,331,0,-7.688728,110.418732
+3404015,RSUP Dr. Sardjito,Jl Kesehatan No.1 Sekip Yogyakarta ,DI YOGYAKARTA,822,152,184,336,16,28,486,513,-7.768511,110.374001
+3404011,RS Umum Daerah Sleman,"Jl Bhayangkara 48 Triharjo Sleman Daerah Istimewa Yogyakarta, 55514",DI YOGYAKARTA,167,46,46,92,0,0,75,0,-7.687569,110.342003
+3403010,RS Umum Daerah Wonosari,Jl Taman Bakti No. 06 Wonosari,DI YOGYAKARTA,922,239,294,533,27,62,389,491,-7.96205,110.602997
+3402086,RS Rajawali Citra,"Jl Pleret Km.2,5, Banjardadap Potorono Banguntapan Bantul ",DI YOGYAKARTA,8,1,0,1,1,0,7,0,-7.88555,110.330025
+3402075,RS Umum Permata Husada,Jl Pleret-Kotagede Km. 4  Kauman Pleret,DI YOGYAKARTA,15,0,0,0,7,7,15,0,-7.88555,110.330025
+3402064,RS Umum Rachma Husada, Jl Parantritis Km.16 Gerselo Patalan Jetis Bantul ,DI YOGYAKARTA,49,12,9,21,13,16,28,0,-7.9096,110.35226399999999
+3402031,RSU PKU Muhammadiyah Bantul,Jl Jenderal Sudirman 124 Bantul,DI YOGYAKARTA,831,242,269,511,23,52,320,484,-7.886867,110.330215
+3402020,RS Umum Santa Elisabeth,Ganjuran Sumbermulyo Bambanglipuro,DI YOGYAKARTA,50,21,15,36,4,10,14,0,-7.88555,110.330025
+3402016,RS Umum Daerah Panembahan Senopati,Jl Dr. Wahidin Sudiro Husodo Bantul,DI YOGYAKARTA,319,5,177,182,0,0,137,0,-7.892725,110.337746
+3401048,RS Umum Kharisma Paramedika,"Jl. Khudori No.34, Wates, Kulon Progo ",DI YOGYAKARTA,52,17,25,42,10,10,10,0,-7.893206,110.12782299999999
+3401026,RS Umum St Yusup Boro,Boro Banjarasri Kalibawang Kulon Progo,DI YOGYAKARTA,41,4,4,8,10,13,33,0,-7.826681,110.16408500000001
+3401015,RS Umum Daerah Wates,Jl Tentara Pelajar Km.1 No.5 Wates Kulon Progo,DI YOGYAKARTA,8121,2084,2323,4407,8,8,3714,0,-7.893206,110.12782299999999
+3578764,RS Bhayangkara TK II HS. Samsoeri Mertojoso,"Jl. A. Yani No.116, Surabaya",JAWA TIMUR,305,64,54,118,172,15,187,0,-7.340028,112.70026399999999
+3578571,RS Umum Daerah dr. Mohamad Soewandhie,Jl. Tambakrejo No. 45-47 Surabaya,JAWA TIMUR,268,114,135,249,5,14,19,0,-7.246131,112.758003
+3578523,RS Umum Haji Surabaya, Jl. Manyar Kertoadi  Surabaya,JAWA TIMUR,306,64,70,134,79,87,172,0,-7.282331,112.779587
+3578213,RS Umum Daerah Bhakti Dharma Husada,"Jl. Raya Kendung No.115-117, Surabaya ",JAWA TIMUR,233,38,47,85,66,82,148,0,-7.253378,112.634918
+3578192,RS Jiwa Menur,Jl. Menur No. 120 Surabaya,JAWA TIMUR,286,187,99,286,0,0,0,0,-7.28675,112.762001
+3578122,RS Umum Tk. III Brawijaya,Jl. Kesatrian No.17 Surabaya,JAWA TIMUR,112,36,30,66,18,28,46,0,-7.29785,112.725182
+3578016,RS Umum Daerah Dr. Soetomo," Jl. Mayjend. Prof. Dr. Moestopo No. 6 - 8 Surabaya, Jawa Timur",JAWA TIMUR,1059,220,250,470,0,0,589,0,-7.266681,112.758224
+3577085,RS Umum Daerah Kota Madiun,Jl. Campursari No.12B Madiun,JAWA TIMUR,214,0,0,0,0,0,214,0,-7.626594,111.522278
+3577074,RS Umum Islam Siti Aisyah,"Jl. Mayjen SungkoNo. 38 Kel. Nambangan Lor, kec. Mangunharjo, Kota Madiun",JAWA TIMUR,144,0,0,0,0,0,144,0,-7.632469,111.51226000000001
+3577015,RS Umum Daerah Dr. Soedono Madiun,"Jl. Dr. Soetomo 59, Madiun",JAWA TIMUR,347,0,8,8,0,0,339,0,-7.6264330000000005,111.524124
+3576014,RS Umum Dr. Wahidin Sudiro Husodo Kota Mojokerto,"  Jl. Raya Surodinawan Kel. Surodinawan, Kec. Prajurit Kulon, Kota Mojokerto",JAWA TIMUR,164,37,42,79,39,27,85,0,-7.465089,112.437096
+3575013,RS Umum Daerah Dr. R. Soedarsono Kota Pasuruan, Jl. Dr Wahidin Sudirohusodo No. 1-4 Kota Pasuruan,JAWA TIMUR,268,48,63,111,67,92,157,0,-7.664211,112.899002
+3574012,RS Umum Daerah dr. Mohamad Saleh Kota Probolinggo,  Jl. Mayjend Panjaitan No.65 Kota Probolinggo,JAWA TIMUR,216,46,37,83,54,75,133,0,-7.74895,113.210327
+3573066,RS Umum Lavalette Malang,  Jl. WR. Supratman No.10 Kota Malang,JAWA TIMUR,3,0,0,0,3,3,3,0,-7.798761,112.636055
+3573011,RS Umum Daerah Dr. Saiful Anwar,     Jl. Jaksa Agung Suprapto No.2 Malang,JAWA TIMUR,932,261,221,482,212,252,450,0,-7.964533,112.63171399999999
+3572010,RS Umum Daerah Mardi Waluyo," Jl. Kalimantan 113, Kota Blitar",JAWA TIMUR,365,89,0,89,207,0,276,0,-8.072881,112.166496
+3571053,RS Kusta Kediri,"Jl. Veteran No. 48, Kediri",JAWA TIMUR,61,7,1,8,13,14,53,0,-7.811458,111.99717700000001
+3571031,RS Umum Bhayangkara Kediri,Jl. Kombes Pol Duryat 17 Kediri,JAWA TIMUR,289,140,125,265,14,10,24,0,-7.812461,112.01781499999998
+3571016,RS Umum Daerah Gambiran,JL. KAPTEN PIERRE TENDEAN NO. 16 KOTA KEDIRI,JAWA TIMUR,269,0,0,0,0,0,269,0,-7.81595,112.004997
+3529014,RS Umum Daerah dr. H. Moh. Anwar,  Jl. Dr Cipto No. 42 Desa Kolor Kab. Sumenep,JAWA TIMUR,200,1,1,2,0,0,198,0,-7.015333,113.863731
+3527012,RS Umum Daerah Kab. Sampang,"Jl. Rajawali No. 10, Sampang",JAWA TIMUR,489,53,76,129,7,7,360,0,-7.151122,113.26768500000001
+3526011,RS Umum Daerah Syarifah Ambami Rato Ebu,  Jl. Pemuda Kaffa No. 9 Bangkalan,JAWA TIMUR,251,56,86,142,57,57,109,0,-7.029261,112.75927
+3525076,RS Petrokimia Gresik,"Jl. Jend. A. Yani No. 69 Kel. Ngipik, Kec. Ngipik, Kab. Gresik",JAWA TIMUR,104,1,0,1,0,0,103,0,-7.156844,112.64003000000001
+3525043,RS Ibu dan Anak Nyai Ageng Pinatih Gresik,Jl. KH Abdul Karim 76-78 Gresik,JAWA TIMUR,39,7,22,29,24,15,10,0,-7.156886,112.65213
+3525021,RS Semen Gresik,"Jl. R A Kartini No. 280 Kel. Tlogopatut Kec. Gresik, Kab. Gresik",JAWA TIMUR,10,3,2,5,2,3,5,0,-7.165831,112.641998
+3525010,RS Umum Daerah Ibnu Sina Kab. Gresik,Jl. Dr. Wahidin Sudirohusodo No. 243B Gresik,JAWA TIMUR,400,72,83,155,0,0,245,0,-7.1617809999999995,112.65142800000001
+3524020,RS Islam Nashrul Ummah,"  Jl. Merpati No.62, Lamongan",JAWA TIMUR,116,15,21,36,31,34,80,0,-7.1163419999999995,112.419655
+3524016,RS Umum Daerah Dr. Soegiri Lamongan,Jl. Kusuma Bangsa No. 7 Lamongan,JAWA TIMUR,390,189,204,393,11,12,-3,0,-7.1141309999999995,112.41100300000001
+3523015,RS Umum Daerah Dr. R. Koesma Tuban, Jl. dr. Wahidin Sudiro Husodo No. 800,JAWA TIMUR,449,91,96,187,0,0,262,5,-6.899583,112.04616499999999
+3522058,RS umum Daerah Padangan,"Jl. Dr. Soetomo No. 2 Padangan, Bojonegoro",JAWA TIMUR,92,21,23,44,19,29,48,0,-7.160639,111.63351399999999
+3522047,RS Umum Daerah Sumberrejo,"Jl. Raya No. 231 Sumberrejo, Bojonegoro",JAWA TIMUR,71,20,24,44,11,16,27,0,-7.142939,111.89828500000002
+3522014,RS Umum Daerah Dr. R. Sosodoro Djatikoesoemo," Jl. Veteran No 36, Bojonegoro",JAWA TIMUR,370,79,91,170,172,181,200,0,-7.142939,111.89828500000002
+3521013,RS Umum Daerah Dr. Soeroto Ngawi,    Jl. Dr Wahidin no,JAWA TIMUR,233,95,84,179,0,0,54,0,-7.392681,111.445
+3520012,RS Umum Daerah dr. Sayidiman Magetan, Jl. Pahlawan No.2 Magetan,JAWA TIMUR,813,163,35,198,6,5,615,77,-7.652836,111.334923
+3519012,RS Paru Dungus,Jl. Raya Dungus - Wungu Madiun,JAWA TIMUR,51,10,5,15,25,26,36,0,-7.665541999999999,111.58098600000001
+3518022,RS Umum Daerah Kertosono,Jl. Panglima Sudirman No.16 Kertosono.,JAWA TIMUR,245,122,123,245,0,0,0,0,-7.592636,112.125847
+3518011,RS Umum Daerah Nganjuk,"Jl. Dr. Sutomo 62, Nganjuk",JAWA TIMUR,400,122,141,263,149,157,137,0,-7.661178,111.872345
+3517010,RS Umum Daerah Kab. Jombang,"Jl. KH.W Hasyim 52, Jombang",JAWA TIMUR,493,104,120,224,0,0,269,0,-7.537539,112.23082
+3516073,RS Umum Daerah Raden Achmad Basoeni,"Jl. Raya Gedeg No.17, Kec. Gedeg, Kab.Mojokerto",JAWA TIMUR,93,0,0,0,0,0,93,0,-7.4559940000000005,112.409798
+3516020,RS Umum Daerah Prof. Dr. Soekandar,   Jl. Hayam Wuruk 25 Mojosari Kab. Mojokerto,JAWA TIMUR,181,2,2,4,0,0,177,0,-7.462764,112.435043
+3516016,RS Umum Sumberglagah Mojokerto, Dsn. Sumberglagah Ds. Tanjungkenongo Kec. Pacet Mojokerto,JAWA TIMUR,101,21,24,45,22,34,56,0,-7.661517,112.537224
+3515121,RS Umum Anwar Medika,Jl. Raya By Pass Krian KM 33 Semawut Balong Bendo Sidoarjo,JAWA TIMUR,876,243,283,526,17,47,350,519,-7.4121690000000005,112.561089
+3515015,RS Umum Daerah Sidoarjo,Jalan Mojopahit No. 667 Sidoarjo,JAWA TIMUR,725,0,0,0,0,0,725,0,-7.465256,112.715652
+3514036,RS Umum Daerah Bangil,Jl. Raya Raci - Bangil Kab. Pasuruan,JAWA TIMUR,405,90,89,179,3,3,226,0,-7.608378,112.830528
+3513067,RS Umum Daerah Tongas,  Jl. Raya Tongas No. 229 Kec. Tongas Kab. Probolinggo,JAWA TIMUR,78,10,15,25,25,28,53,0,-7.735419,113.11950700000001
+3513024,RS Graha Sehat,Jl. Raya Panglima Sudirman No.2 B Kraksaan,JAWA TIMUR,103,0,24,24,0,10,79,0,-7.755953,113.43951399999999
+3513013,RS Umum Daerah Waluyo Jati Kraksaan,Jl. Dr. Soetomo No. 1 Kec. Kraksaan Kab. Probolinggo,JAWA TIMUR,238,46,53,99,72,63,139,0,-7.761831,113.437401
+3512012,RS Umum Daerah dr. Abdoer Rahem Kabupaten Situbon,"Jl. Anggrek No. 68, Kel. Patokan, Kec. Situbondo, Kab. Situbondo",JAWA TIMUR,231,83,73,156,35,42,75,0,-7.702980999999999,114.014771
+3511011,RS Umum dr. H.Koesnadi Bondowoso, Jl. Piere Tendean No. 3 Bondowoso,JAWA TIMUR,342,71,93,164,7,8,178,125,-8.215011,114.377457
+3510102,RS Nahdlatul Ulama Banyuwangi,"Jl. Raya Mangir No. 9, Kec. Rogojampi, Banyuwangi",JAWA TIMUR,18,1,1,2,11,17,16,0,-8.337369,114.27256799999999
+3510054,RS Islam Fatimah,"Jl. Jember nomor 25, Kelurahan Kalirejo, Kab. Banyuwangi",JAWA TIMUR,65,16,10,26,0,0,39,0,-8.261633,114.334053
+3510043,RS Umum Daerah Genteng,"   Jl. Hasanudin No.98, Genteng, Banyuwangi",JAWA TIMUR,136,31,37,68,31,37,68,0,-8.36405,114.147774
+3510010,RS Umum Daerah Blambangan,  Jl. Letkol Istiqlah No. 49 Banyuwangi,JAWA TIMUR,211,10,6,16,21,26,195,0,-8.236286,114.35823799999999
+3509134,RS Daerah Balung Jember,"Jl. Rambipuji nomor 19, Balung Jember",JAWA TIMUR,117,19,57,76,20,14,41,0,-8.271042,113.53930700000001
+3509123,RS Daerah Kalisat Jember, Jl. M.H.Thamrin No.31 Kalisat Jember,JAWA TIMUR,94,30,29,59,15,21,35,0,-8.201456,113.671982
+3509043,RS Paru Jember,Jl. Nusa Indah No. 28 Jember,JAWA TIMUR,103,21,19,40,0,0,63,0,-8.160664,113.70050800000001
+3509032,RS Tk.III Baladhika Husada Jember,Jl. PB Sudirman No. 45 Jember,JAWA TIMUR,120,18,30,48,34,41,72,0,-8.2603,113.67041
+3509010,RS Umum Daerah Dr. Soebandi,"Jl. Dr. Soebandi No.124, Jember",JAWA TIMUR,410,150,210,360,0,0,50,0,-8.156189,113.71539299999999
+3508016,RS Daerah Dr. Haryoto Kabupaten Lumajang,"  Jl. Basuki Rahmat No.5, Lumajang",JAWA TIMUR,275,0,0,0,0,0,275,0,-8.122275,113.227776
+3507204,RS Umum Islam Gondang Legi,"Jl. Hayam Wuruk 66, Gondang Legi Wetan, Kab. Malang",JAWA TIMUR,109,18,22,40,69,69,69,0,-8.170653,112.63996100000001
+3507085,RS Umum Daerah Lawang,JL. R.A. Kartini No. 5 Lawang Kab. Malang,JAWA TIMUR,138,36,35,71,25,42,67,0,-7.839828,112.676147
+3507052,RS Umum Daerah Kanjuruhan Kepanjen,"Jl. Panji No. 100 Kepanjen, Kab. Malang",JAWA TIMUR,375,110,103,213,80,82,162,0,-8.140542,112.570847
+3507026,RS Jiwa Dr. Radjiman Wediodiningrat Lawang,"Jl. A. Yani, Lawang, Malang, Jawa Timur ",JAWA TIMUR,724,321,137,458,165,77,266,0,-7.839828,112.676147
+3506036,RS Umum Amelia,Jl. Pahlawan No. 25A Pare Kediri,JAWA TIMUR,86,34,43,77,4,5,9,0,-7.761606,112.180458
+3506014,RS Umum Daerah Kabupaten Kediri,Jl. Pahlawan Kusuma Bangsa No. 1 Pare,JAWA TIMUR,4807,1706,-1808,-102,2,10,4909,1827,-7.759758000000001,112.17598000000001
+3505054,RS Umum An-Nisaa,"Jl. Suparyono Timur No. 1, Bajang Talun Blitar",JAWA TIMUR,2,0,0,0,1,1,2,0,-8.090083,112.288261
+3505013,RS Umum Daerah Ngudi Waluyo Wlingi,Jl. Dr. Sucipto No. 5 Wlingi,JAWA TIMUR,268,20,32,52,0,0,216,0,-8.0838,112.31556699999999
+3504012,RS Umum Daerah Dr. Iskak Tulungagung,Jl. Dr. Wahidin Sudiro Husodo Tulungagung,JAWA TIMUR,464,149,132,281,83,100,183,0,-8.060617,111.90761599999999
+3503011,RS Umum Daerah dr. Soedomo Trenggalek,Jl. dr Sutomo Nomor 2 Trenggalek,JAWA TIMUR,235,0,0,0,0,0,235,0,-7.6264330000000005,111.524124
+3502112,RS Umum Aisyiah Ponorogo,"Jl. Dr Sutomo 18 - 24, Ponorogo",JAWA TIMUR,5,2,1,3,1,1,2,0,-7.872197,111.46131100000001
+3502010,RS Umum Daerah Dr. Harjono S. Kabupaten Ponorogo,Jl. Raya Ponorogo-Pacitan Kel. Pakunden Kab. Ponorogo,JAWA TIMUR,464,97,109,206,127,108,258,0,-7.854103,111.46853600000001
+3501016,RS Umum Daerah dr. Darsono,Jl. Ahmad Yani 51 Pacitan,JAWA TIMUR,87,37,36,73,0,0,14,0,-8.20125,111.102043
+3674056,RS Islam Asshobirin,Jl Raya Serpong Km 11 Pondok Jagung Tangerang Selatan,BANTEN,5,1,1,2,4,4,3,0,-6.318589,106.678261
+3671146,RS Umum Bhakti Asih,"Jl. Raden saleh No.10 Karang Tengah, Tangerang",BANTEN,130,0,0,0,0,0,130,0,-6.221147,106.70576499999999
+3671032,RS Kusta Dr. Sitanala,Jl. Dr Sitanala No. 99 Kota Tangerang,BANTEN,958,62,104,166,640,653,792,0,-6.162642,106.63368999999999
+3603010,RS Umum Daerah Kabupaten Tangerang,"Jl. A Yani No. 9 Tangerang, Kota Tangerang",BANTEN,566,156,247,403,15,42,163,0,-6.170044,106.63546799999999
+3602022,RS Misi Lebak,Jl. Multatuli No.41 Rangkas Bitung,BANTEN,155,26,24,50,46,59,105,105,-6.369178,106.28311200000002
+3602011,RS Umum Daerah Dr. Adjidarmo,Jl. Iko Jatmiko No.1 Rangkasbitung,BANTEN,363,0,0,0,0,0,363,0,-6.369178,106.28311200000002
+3601010,RS Umum Daerah Berkah Pandeglang,       Jalan Raya Labuan KM 5 Cikoneng Pandeglang,BANTEN,220,86,102,188,22,38,32,0,-7.31775,108.281906
+5171020,RS Umum Daerah Wangaya,  Jl. Kartini No.133 Denpasar,BALI,186,61,56,117,145,159,69,0,-8.648956,115.213402
+5171016,RSUP Sanglah,Jl. Diponegoro Denpasar Bali,BALI,765,200,195,395,0,0,370,0,-8.676161,115.213104
+5108016,RS Umum Daerah Kab. Buleleng,     Jl. Ngurah Rai 30 Singaraja,BALI,336,310,0,310,26,0,26,0,-8.119911,115.09236899999999
+5107015,RS Umum Daerah Karangasem,"Jl. Ngurah Rai,No.58 Amlapura",BALI,253,41,48,89,0,0,164,0,-8.45725,115.606499
+5106025,RS Jiwa Provinsi Bali,Jl.Kusuma Yudha No. 29 Bangli,BALI,390,182,88,270,68,51,120,0,-8.454211,115.351997
+5106014,RS Umum Daerah Kabupaten Bangli, Jl. Brigjen Ngurah Rai No. 99X Bangli,BALI,151,34,29,63,36,52,88,0,-8.454267,115.352646
+5105013,RS Umum Daerah Klungkung,Jl. Flamboyan No. 40 Semarapura,BALI,169,83,0,83,86,0,86,0,-8.538569,115.395096
+5104012,RS Umum Daerah Sanjiwani Gianyar,    Jl. Ciung Wenara No.2 Gianyar,BALI,2469,110,86,196,1123,1147,2273,0,-8.537967,115.32273899999998
+5103032,RS Umum Daerah Kab. Badung Mangusada,"Jl. Raya Kapal Mengwi, Badung ",BALI,266,89,76,165,42,59,101,0,-8.572281,115.180031
+5102010,RS Umum Daerah Tabanan, Jl. Pahlawan No. 14 Tabanan,BALI,236,125,102,227,12,7,9,0,-8.539283,115.131882
+5101016,RS Umum Daerah Negara,  Jl. Wijaya Kusuma 17 Negara,BALI,149,38,31,69,65,80,80,0,-8.354136,114.621796
+5271087,RS Umum Daerah Kota Mataram,      Jl. Bung Karno No.3 Pagutan raya Mataram ,NUSA TENGGARA BARAT,239,86,91,177,22,46,62,0,-8.581825,116.106834
+5205014,RS Umum Dompu," Jl. Kesehatan No. 1 Dompu, NTB",NUSA TENGGARA BARAT,174,40,61,101,38,54,73,0,-8.545436,118.445801
+5204013,RS Umum Sumbawa Besar,  Jl. Garuda No. 5 Sumbawa Besar,NUSA TENGGARA BARAT,98,25,10,35,0,0,63,0,-8.504042,117.428497
+5203012,RS Umum Dr. R. Sudjono,"Jl. Prof M Yamin, SH. No. 55 Selong",NUSA TENGGARA BARAT,379,219,218,437,175,175,-58,0,-8.583647000000001,116.550583
+5202011,RS Umum Praya,"    Jl. H. Lalu Hasyim, Kelurahan Tiwu Galih, Praya",NUSA TENGGARA BARAT,236,117,115,232,123,123,4,0,-8.710367,116.2724
+5201010,RS Umum Daerah Patut Patuh Patju,Jl. H. Lalu Anggrat BA No. 2 Gerung,NUSA TENGGARA BARAT,140,86,30,116,19,4,24,0,-8.691361,116.112099
+5371011,RS Umum Prof Dr WZ Johanes,  Jl. Dr Moch Hatta No. 19 Kupang,NUSA TENGGARA TIMUR,358,126,166,292,19,41,66,0,-10.1843,123.59485600000001
+5313015,RS Umum Daerah dr. Ben Mboi Ruteng,"  Jl. DR.Soetomo No.1 Ruteng, Kab. Manggarai",NUSA TENGGARA TIMUR,137,45,69,114,9,10,23,0,-8.614364,120.466499
+5312014,RS Umum Bajawa,"      Jl. Diponegoro No. 5, Bajawa",NUSA TENGGARA TIMUR,99,30,47,77,13,16,22,0,-8.792325,120.96060200000001
+5311013,RS Umum Daerah Ende,Jl. Prof Dr. WZ.Johanes Ende,NUSA TENGGARA TIMUR,215,49,84,133,19,16,82,0,-8.854053,121.654198
+5310012,RS Umum Dr TC Hillers Maumere,   Jl.Wairklau - Maumere,NUSA TENGGARA TIMUR,199,30,56,86,56,58,113,0,-8.620842,122.20770300000001
+5309012,RS Umum Daerah dr. Hendrikus Fernandez Larantuka, Jl. Jend. Sudirman No. 33 Kel. Sarotari Tengah Larantuka Flores Timur,NUSA TENGGARA TIMUR,113,25,36,61,8,14,52,0,-8.346411,122.97917199999999
+5308045,RS Umum Daerah Lewoleba,"   Jl.Trans Lembata No.1,Lewoleba,Lembata",NUSA TENGGARA TIMUR,171,9,9,18,8,7,153,0,-8.373692,123.400024
+5307021,RS Bergerak Kab.Alor,"Jln. MASANG, RT 08 RW 04 KEL. WELAI TIMUR, KEC. TELUK MUTIARA, KAB. ALOR",NUSA TENGGARA TIMUR,13,0,2,2,3,5,11,0,-8.25,124.75
+5307010,RS Umum Daerah Kalabahi,Jl. Dr Sutomo Kalabahi Kab. Alor,NUSA TENGGARA TIMUR,124,32,47,79,20,24,45,0,-8.25,124.75
+5306042,RS Penyangga Perbatasan Betun,Jl. Sukabihanawa No. 02 Desa Kamanasa Kec.Malaka Tengah,NUSA TENGGARA TIMUR,94,13,11,24,25,45,70,0,-9.101069,124.890999
+5306031,RS Sito Husada,"Jl. KH.Dewantara No.15,Atambua Belu",NUSA TENGGARA TIMUR,31,5,2,7,5,2,24,0,-9.333333,124.900002
+5306016,RS Umum Daerah MGR Gabriel Manek, Jl. Dr Sutomo No.2 Atambua,NUSA TENGGARA TIMUR,185,37,43,80,37,88,105,0,-9.101069,124.890999
+5305015,RS Umum Daerah Kefamenanu, Jl. Letjen Suprapto Kefamenanu,NUSA TENGGARA TIMUR,111,10,19,29,42,40,82,0,-9.437953,124.471298
+5304014,RS Umum Soe,   Jl. Boegenville No.7 Soe - Timor Tengah Selatan,NUSA TENGGARA TIMUR,106,47,49,96,47,49,10,0,-9.696447000000001,124.481178
+5303045,RS Umum Daerah Naibonat," Jl. Timor Raya KM.37 Oelamasi, Kupang",NUSA TENGGARA TIMUR,74,20,21,41,0,0,33,0,-10.1843,123.59485600000001
+5303033,RS Bhayangkara,Jl. Nangka No. 84 Kupang,NUSA TENGGARA TIMUR,108,0,0,0,0,0,108,0,-10.1843,123.59485600000001
+5303024,RSUD Rote Ndao Baa," Jl. Baa-Busalangga, Kab. Rote Ndao",NUSA TENGGARA TIMUR,59,13,22,35,9,10,24,0,-10.1843,123.59485600000001
+5303022,RS Tk.IV Wirasakti Kupang,"Jl. Dr.DR.Moch Hatta No.9-11 ,Kupang",NUSA TENGGARA TIMUR,100,0,0,0,0,0,100,0,-10.1843,123.59485600000001
+5302034,RS Umum Imanuel Sumba,"Jl. Nangka No.4,Waingapu-Sumba Timur",NUSA TENGGARA TIMUR,45,14,11,25,9,12,20,0,-9.662806,120.266899
+5302023,RS Umum Daerah Waingapu,  Jl. Adam Malik No.54 Kel. Kambajawa - Kecamatan Kota Waingapu,NUSA TENGGARA TIMUR,130,26,45,71,0,0,59,0,-9.662806,120.266899
+5301033,RS Umum Waikabubak," Jl. Adhyaksa, Km.3, Kel. Diratana, Kec. Loli, Waikabubak",NUSA TENGGARA TIMUR,125,39,57,96,0,0,29,0,-8.657383,121.079369
+5301011,RS Kristen Lende Moripa,Jl. El Tari No.2 Waikabubak,NUSA TENGGARA TIMUR,167,26,27,53,55,59,114,0,-9.409536,119.245995
+6172066,RS Jiwa Provinsi Kalimantan Barat, Jl. Raya Singkawang Bengkayang KM 15 Singkawang,KALIMANTAN BARAT,412,0,0,0,0,0,412,0,0.9087940000000001,108.984596
+6172011,RS Umum Daerah Dr. Abdul Aziz Singkawang,"Jl. Dr Soetomo No. 28, Singkawang",KALIMANTAN BARAT,285,68,87,155,54,80,130,0,1.361328,109.309998
+6171113,RS Islam Yarsi Pontianak,Jl. Tanjung Raya II Pontianak,KALIMANTAN BARAT,89,32,30,62,12,15,27,0,-0.022522,109.330307
+6171085,RS Bersalin Jeumpa Pontianak,Jl. St. Abdurrahman No. 54 Pontianak,KALIMANTAN BARAT,27,8,8,16,19,19,11,0,-0.022522,109.330307
+6171067,RS Anton Soedjarwo Pontianak,Jl. K. S. Tubun 14 Pontianak ,KALIMANTAN BARAT,1,0,0,0,0,0,1,0,-0.022522,109.330307
+6171011,RS Umum Daerah Dr. Soedarso Pontianak,Jl. dr. Soedarso No.1 Pontianak,KALIMANTAN BARAT,366,122,113,235,49,66,131,0,-0.022522,109.330307
+6110012,RS Umum Daerah Kabupaten Melawi,Jl. Kelakik KM. 4 Nanga Pinoh Kabupaten Melawi,KALIMANTAN BARAT,84,13,10,23,40,55,61,0,0.083333,111.48333000000001
+6109012,RS Umum Daerah Kabupaten Sekadau,Jl. Merdeka Timur KM. 06 Ds. Mungguk Kec. Sekadau Hilir Kab. Sekadau,KALIMANTAN BARAT,39,2,3,5,0,0,34,0,0.015081,110.888603
+6108011,RS Umum Daerah dr. A. Diponegoro Putussibau,Jl. Kom Yos Sudarso No.42 Putussibau,KALIMANTAN BARAT,135,36,37,73,13,41,62,0,0.8514079999999999,112.93229699999999
+6107010,RS Umum Daerah Ade Muhammad Djoen Sintang,Jl. Patimura dan Jl.YC Oevang Oeray Sintang,KALIMANTAN BARAT,136,27,33,60,33,42,76,0,0.080239,111.495499
+6106020,RS Fatima Ketapang,Jl. Jend. Sudirman No.27 Ketapang,KALIMANTAN BARAT,220,46,72,118,46,56,102,102,-1.8590970000000002,109.971901
+6106016,RS Umum Daerah Dr. Agoesdjam Ketapang,Jl. Panjaitan No.51 Ketapang,KALIMANTAN BARAT,100,50,50,100,1,1,0,0,-1.8590970000000002,109.971901
+6105015,RS Umum Daerah M. Th. Djaman Sanggau,Jl. Jend Sudirman Sanggau,KALIMANTAN BARAT,129,22,34,56,39,34,73,0,0.119275,110.597298
+6104014,RS Umum Daerah Dr. Rubini Mempawah,Jalan Raden Kusno Mempawah,KALIMANTAN BARAT,145,48,46,94,70,76,51,0,-0.022522,109.330307
+6103013,RS Umum Daerah Kabupaten Landak,Jl. Raya Ngabang Sanggau No.109 Kecamatan Ngabang Kabupaten Landak,KALIMANTAN BARAT,121,22,19,41,57,23,80,0,-7.042153,112.89679699999999
+6102012,RS Umum Daerah Bengkayang,Jl. Sanggau Ledo ,KALIMANTAN BARAT,117,4,6,10,41,66,107,0,-0.278781,111.47528799999999
+6101033,RS Umum Daerah Pemangkat, Jalan. Abdul Kadir Kasim No. 20 Pemangkat,KALIMANTAN BARAT,131,17,33,50,61,25,81,0,1.175333,108.970398
+6101022,RS Umum Daerah Sambas,Jl. Pendidikan no 300 Kecamatan Sambas,KALIMANTAN BARAT,132,14,17,31,0,0,101,0,1.361328,109.309998
+6213022,RS Umum Daerah Puruk Cahu,"Jl. A. Yani No. 497, Puruk Cahu",KALIMANTAN TENGAH,31,16,14,30,15,15,1,0,-1.681489,113.382355
+6212020,RS Umum Daerah Tamiang Layang,Jl. Nansarunai Tamiang Layang No. 62,KALIMANTAN TENGAH,97,12,11,23,31,43,74,0,-1.681489,113.382355
+6211026,RS Umum Daerah Kuala Kurun,    Jl. Jend. A. Yani No.43 Kuala Kurun Kalimantan Tengah,KALIMANTAN TENGAH,57,11,12,23,13,21,34,0,-1.681486,113.382355
+6210015,RS Umum Daerah Pulang Pisau,Jl. W.A.D Duha Komplek Perkantoran Kab. Pulang Pisau  Provinsi Kalimantan Tengah,KALIMANTAN TENGAH,76,30,13,43,21,12,33,0,-1.681489,113.382355
+6208014,RS Umum Daerah Kuala Pembuang,"  Jl. A.Yani No.30,Kuala Pembuang",KALIMANTAN TENGAH,69,0,1,1,13,22,68,0,-2.529681,112.95619199999999
+6207033,RS Umum Daerah Sukamara," Jl. Tjilik Riwut Km 5,5 Nomor 35 Sukamara   ",KALIMANTAN TENGAH,78,7,10,17,27,34,61,0,-2.7166669999999997,111.183334
+6207012,RS Umum Daerah Lamandau,  JL. TRANS KALIMANTAN KM.4,KALIMANTAN TENGAH,62,3,1,4,4,9,58,0,-1.681489,113.382355
+6205011,RS Umum Daerah Muara Teweh,   Jl. Yetro Sinseng Muara Teweh,KALIMANTAN TENGAH,113,49,62,111,1,1,2,0,-1.433333,114.449997
+6203015,RS Umum Daerah Dr H Soemarno S,   Jl. Tambun Bungai  No. 16 Kuala Kapuas,KALIMANTAN TENGAH,110178,110069,108023,218092,92,2142,-107914,0,-3.002806,114.39102199999999
+6201012,RS Umum Daerah Sultan Imanuddin,Jl. Sutan Syahrir No 17 Pangkalan Bun,KALIMANTAN TENGAH,227,74,67,141,0,0,86,0,-1.681489,113.382355
+6372014,RS Umum Daerah Idaman Banjarbaru,Jl. Trikora No. 115 Gt. Manggis Banjarbaru,KALIMANTAN SELATAN,223,96,94,190,0,0,33,0,-3.0926419999999997,115.28376000000002
+6371141,RS TNI-AU Tk.IV Syamsudin Noor,Jl. Hercules No. 17 Banjarbaru,KALIMANTAN SELATAN,38,0,0,0,22,21,38,0,-3.395972,114.58508300000001
+6371072,RS Umum Daerah Dr. H. Moch. Ansari Saleh,"Jl Brigjend H. Hasan Basry No.1, Banjarmasin",KALIMANTAN SELATAN,2003,882,881,1763,105,105,240,0,-3.395972,114.58508300000001
+6371013,RS Umum Daerah Ulin Banjarmasin,"Jl. Jen A Yani No.43, Banjarmasin Kalimantan Selatan",KALIMANTAN SELATAN,539,190,216,406,61,74,133,0,-3.395972,114.58508300000001
+6311016,RS Umum Daerah Balangan,"Jl. Lingkar Timur Km.1,7 Paringin Kab.Balangan ",KALIMANTAN SELATAN,130,18,29,47,39,44,83,0,-2.321589,112.74639099999999
+6309014,RS Umum Daerah H. Badaruddin Tanjung,Jl. Jaksa Agung Suprapto Tanjung,KALIMANTAN SELATAN,118,0,0,0,0,0,118,0,-2.216361,115.436691
+6308013,RS Umum Daerah Pambalah Batung,Jl. Jenderal Basuki Rahmat No. 1 Amuntai,KALIMANTAN SELATAN,256,52,58,110,12,11,146,0,-3.0926419999999997,115.28376000000002
+6307012,RS Umum Daerah H Damanhuri Barabai,        Jl. Murakata No. 4 Barabai,KALIMANTAN SELATAN,370,4572,6078,10650,0,0,-10280,0,-2.65225,115.33996599999999
+6306011,RS Umum Daerah Brigjed H. Hasan Basry Kandangan," Jalan Jenderal  Sudirman No.26A RT.01 RK.I Hamalau, Sungai Raya, Kab. Hulu Sungai Selatan",KALIMANTAN SELATAN,607,189,56,245,227,226,362,0,-2.7789,115.264
+6305010,RS Umum Daerah Datu Sanggul Rantau,Jl. Brigjend H. Hasan Basry Rantau,KALIMANTAN SELATAN,129,31,36,67,31,31,62,0,-3.6898940000000002,116.183205
+6304020,RS Umum Daerah H. Abdul Aziz Marabahan,"  Jl. Jend Sudirman No.10, RT. 13 RW. 001, Marabahan",KALIMANTAN SELATAN,32,6,7,13,12,9,19,0,-0.789275,113.920998
+6304016,RS Jiwa Sambang Lihum,"Jl Gubernur Syarkawi KM.3,9 Kec.Gambut",KALIMANTAN SELATAN,300,178,33,211,53,36,89,0,-0.789275,113.920998
+6303015,RS Umum Daerah Ratu Zalecha,Jl Menteri Empat Martapura Kabupaten Banjar Kalimantan Selatan,KALIMANTAN SELATAN,258,80,21,101,140,38,157,0,-3.411597,114.8452
+6302014,RS Umum Daerah Kabupaten Kotabaru,Jl. Brigjend. H. Hasan Basri No.57 Kotabaru,KALIMANTAN SELATAN,112,25,25,50,25,39,62,0,-3.0926419999999997,115.28376000000002
+6301013,RS Umum Daerah H. Boejasin Pelaihari,Jl. Hadji Boejasin No.68 Kab. Tanah Laut,KALIMANTAN SELATAN,170,64,75,139,5,26,31,0,3.354681,117.596542
+6474032,RS Umum Daerah Taman Husada,Jl. S. Parman No. 01,KALIMANTAN TIMUR,176,23,7,30,128,18,146,0,0.135597,117.49859599999999
+6472118,RS Umum Daerah Inche Abdoel Moeis,"Jl. H.A.M.M Rifaddin, Kel. Harapan Baru, Kec. Loa Janan Ilir, Samarinda ",KALIMANTAN TIMUR,143,52,51,103,19,18,40,0,-0.5035890000000001,117.156502
+6472063,RS Jiwa Atma Husada Mahakam,Jl. Kakap No.23 Samarinda,KALIMANTAN TIMUR,191,93,29,122,60,20,69,0,-0.502183,117.153801
+6472015,RS Umum Daerah Abdul Wahab Sjahranie,"Jl. Dr. Soetomo, Samarinda",KALIMANTAN TIMUR,713,141,93,234,198,281,479,0,-0.502183,117.153801
+6471073,RS Bhayangkara Balikpapan,Jl. Jend Sudirman No. 14 Kel Prapatan,KALIMANTAN TIMUR,87,44,43,87,44,43,0,0,-1.2653860000000001,116.8312
+6471062,RS Bersalin Sayang Ibu Balikpapan,"Jl. Wain No.33,Kebun Sayur,Balikpapan",KALIMANTAN TIMUR,24,0,10,10,0,14,14,0,-1.2653860000000001,116.8312
+6471051,RS Restu Ibu,Jl. Jend A.Yani No. 12 Balikpapan Kalimantan Timur,KALIMANTAN TIMUR,163,20,43,63,33,55,100,0,-1.271531,116.836998
+6471036,RS Tk.II Dr R Hardjanto,Jl. Tanjungpura VI Balikpapan,KALIMANTAN TIMUR,194,117,117,234,0,0,-40,0,-1.269889,116.858002
+6471014,RS Umum Daerah Dr. Kanujoso Djatiwibowo,   Jl. M.T. Haryono Ring Road Balikpapan No.656,KALIMANTAN TIMUR,448,100,73,173,0,0,275,0,-1.283331,116.833
+6409036,RS Umum Daerah Ratu Aji Putri Botung,Jl Propinsi KM 9 Kab. Penajam Paser Utara,KALIMANTAN TIMUR,90,19,18,37,17,26,53,0,1.6406310000000002,116.41938799999998
+6405011,RS Umum Daerah Dr. Abdul Rivai,Jl. Pulau Panjang No.276 Tanjung Redeb,KALIMANTAN TIMUR,220,96,103,199,7,8,21,0,2.162331,117.696205
+6404032,RS Umum Daerah Kudungga,Jl. Soekarno Hatta No.1 Sangatta Utara,KALIMANTAN TIMUR,108,0,1,1,0,12,107,0,0.520861,117.435478
+6403052,RS Umum Daerah Aji Batara Agung Dewa Sakti,Jl Balikpapan - Handil II Samboja,KALIMANTAN TIMUR,101,33,26,59,18,24,42,0,-0.8967219999999999,116.93710300000001
+6403015,RS Umum Daerah Aji Muhammad Parikesit,Jl. Ratu Agung No. 1 Tenggarong Seberang,KALIMANTAN TIMUR,280,68,84,152,0,0,128,0,-0.417325,116.9814
+6402041,RS Umum Daerah Harapan Insan Sendawar,"Jl. Mawar, Kampung Sekolaq Joleq, Kecamatan Sekolaq Darat",KALIMANTAN TIMUR,205,18,27,45,0,0,160,0,-0.417325,116.9814
+6401014,RS Umum Daerah Panglima Sebaya,Jl. Kusuma Bangsa KM.5 Tanah Grogot,KALIMANTAN TIMUR,182,38,65,103,40,39,79,0,-1.9713470000000002,116.228798
+7174035,RS Umum Daerah Kota Kotamobagu,Kelurahan Pobundayan Kecamatan Kotamobagu Selatan ,SULAWESI UTARA,33,16,14,30,1,2,3,0,0.7343390000000001,124.30891399999999
+7172036,RS Umum Bitung,Jl. S. H. Sarundajang Kel. Manembo-nembo Tengah Kec. Matuari,SULAWESI UTARA,192,30,27,57,48,87,135,0,1.4553530000000001,125.204697
+7171024,RS TK.Teling Manado,Jl. 14 Februari Telling Atas Manado,SULAWESI UTARA,202,64,81,145,28,29,57,0,1.465019,124.850998
+7171013,RSUP Prof. Dr. R. D. Kandou,"                 Jl. Raya Tanawangko No.56, Manado",SULAWESI UTARA,807,306,274,580,0,0,227,0,1.4931,124.841003
+7109028,RSU Ratatotok - Buyat,   JL. J.W. Lasut Ratatotok II Kecamatan Ratatotok,SULAWESI UTARA,46,10,20,30,7,9,16,10,1.180311,124.846977
+7106018,RS Umum Daerah Maria Walanda Maramis, Jl. Prof. Arnold Mononutu - Kel.Sarongsong II - Airmadidi,SULAWESI UTARA,90,0,20,20,35,55,70,0,1.4104079999999999,124.97256499999999
+7104027,RS Bergerak Kab.Kep.Talaud,  Jl Raya Taturan - Gemeh Kecamatan Gemeh Kabupaten Kepulauan Talaud,SULAWESI UTARA,56,65,76,141,24,27,-85,0,4.092,126.76799799999999
+7103026,RS Bergerak Kab.Kep.Sitaro,"Kampung Sawang Kec, Siau timur selatan",SULAWESI UTARA,66,9,27,36,23,25,30,0,0.624692,123.97500600000001
+7102014,RS Umum Dr.Sam Ratulangi,  Jl. Suprapto Luaan Tondano timur,SULAWESI UTARA,11,4,4,8,2,3,3,0,1.153392,124.81826000000001
+7101013,RS Umum Datoe Binangkang,Jl. Trans Sulawesi Desa Lolak II Kec. Lolak Sulawesi Utara,SULAWESI UTARA,132,9,7,16,29,25,116,0,0.739658,124.31205700000001
+7271127,RS Bhayangkara Palu,   Jl. DR. Suharso Lrg III No. 2 Palu,SULAWESI TENGAH,90,0,0,0,0,0,90,0,-0.898583,119.850601
+7271095,RS Budi Agung Palu,Jl. Maluku No. 44 Palu,SULAWESI TENGAH,95,0,0,0,0,0,95,0,-0.9073690000000001,119.87359599999999
+7271051,RS Umum Daerah Madani Palu,Jl. Thalua Kontji No. 11  Mamboro Palu,SULAWESI TENGAH,189,54,30,84,37,59,105,0,-0.8064720000000001,119.878677
+7271036,RS Umum Anutapura Palu,Jl. Kangkung No. 1 Palu,SULAWESI TENGAH,437,121,128,249,173,18,188,0,-0.898583,119.850601
+7271025,RS TK.IV Wirabuana Palu,"Jl. Sisinga Mangaraja No.4,Palu",SULAWESI TENGAH,8,2,2,4,6,6,4,0,-0.895603,119.887375
+7271014,RS Umum Daerah Undata Palu,"Jl. R. E. Martadinata, Tondo Kecamatan Mantikulore",SULAWESI TENGAH,440,1173,1021,2194,33,0,-1754,0,-0.886883,119.86716499999999
+7209032,RS Umum Daerah Ampana, Jl. St Hasanudin No. 32 Ampana,SULAWESI TENGAH,174,22,51,73,43,54,101,0,-0.867983,121.5858
+7208011,RS Umum Daerah Anuntaloko Parigi, Jl. Sis Al Jufri No.214 Parigi Moutong,SULAWESI TENGAH,230,60,80,140,42,47,90,0,-0.846275,120.17971000000001
+7207013,RS Umum Daerah Buol, Jln. DR. Wahidin Sudirohusodo No.12 Kel. Leok II  Kec. Biau,SULAWESI TENGAH,30,0,0,0,0,0,30,0,1.160725,121.42720800000001
+7206012,RS Umum Mokopido Toli-Toli," Jl. Lanoni No.37 Kel Baru Kec Baolan kab Toli-Toli, Sulteng",SULAWESI TENGAH,273,37,34,71,98,105,202,0,1.033333,120.816666
+7205022,RS Umum Daerah Kabelota,  Jl. Trans Palu - Donggala Kabonga Besar,SULAWESI TENGAH,105,17,22,39,32,34,66,0,-1.183542,119.974052
+7204021,RS Umum Daerah Kolonedale,  Jl. W Monginsidi 2 Kolonedale,SULAWESI TENGAH,88,40,39,79,2,6,9,0,-1.247158,122.68801100000002
+7204010,RS Umum Daerah Poso,Jl. Jenderal Sudirman No.33  Kel Kasintuwu Poso,SULAWESI TENGAH,132,37,39,76,28,28,56,0,-0.2,113.5
+7203016,RS Umum Daerah Morowali,  Jl. Trans Sulawesi Fonuasingko Bungku,SULAWESI TENGAH,243,43,30,73,140,30,170,0,-2.169122,121.35416399999998
+7202015,RS Umum Daerah Kabupaten Banggai, Jl. Imam Bonjol KM 3 No. 14 Luwuk,SULAWESI TENGAH,359,55,50,105,39,41,254,0,-0.9348190000000001,122.82256299999999
+7201011,RS Umum Daerah Banggai,  Jl. KM 7.Adean Kabupaten Banggai Laut,SULAWESI TENGAH,99,10,5,15,8,5,84,0,-1.602811,123.54780600000001
+7472016,RS Umum Daerah Kota Bau Bau,Jl. Drs. H. La Ode Manarfa,SULAWESI TENGGARA,159,19,20,39,0,0,120,0,-5.309636,122.988831
+7471092,RS Umum Daerah Kota Kendari, Jl. Z.A. Sugianto No. 39 Kendari,SULAWESI TENGGARA,114,1,0,1,2,3,113,0,-3.967489,122.59470400000001
+7471066,RS Jiwa Kendari, Jl. DR.Sutomo No.29,SULAWESI TENGGARA,205,129,69,198,4,3,7,0,-3.9604809999999997,122.509216
+7408013,RS Umum Daerah Kab.Konawe Utara," Jl. Poros Kendari-Asera, Desa Lahimbua, kec. Andowia, Kab. Konawe Utara",SULAWESI TENGGARA,24,6,5,11,6,7,13,0,-3.280278,121.83776100000001
+7407012,RS Umum Daerah Kabupaten Wakatobi,"Jl. Utudae Samad Kel. Mandati III, Kec. Wangi - Wangi Selatan",SULAWESI TENGGARA,61,0,0,0,0,0,61,0,-5.329664,123.590286
+7406036,RS Umum Daerah Kabupaten Bombana,   Jl. Poros Poea Kel.Poea Kec. Rumbia Tengah,SULAWESI TENGGARA,83,3,6,9,23,23,74,0,-4.688628,121.79711200000001
+7404034,RS Umum Daerah H.M.Djafar Harun,"Jl. Trans Sulawesi Lasusua, Kolaka",SULAWESI TENGGARA,113,41,53,94,34,45,19,0,-4.02135,121.512695
+7404023,RS Antam Nikel Pomalaa,Jl. R.Suprapto Pomalaa Kab.Kolaka,SULAWESI TENGGARA,50,3,4,7,2,2,43,0,-4.020736,121.51184099999999
+7404012,RS Benyamin Guluh Kolaka,Jl. DR.Sutomo  No. 01 Kolaka,SULAWESI TENGGARA,172,37,33,70,40,52,102,0,-4.020736,121.51184099999999
+7403022,RS Umum Daerah Konawe,"Jl. Pangeran Diponegoro No.301, Konawe",SULAWESI TENGGARA,890,248,299,547,35,80,343,519,-3.9681830000000002,122.572235
+7402010,RS Umum Daerah Raha,Jl. Ahmad yani raha no 10 Raha,SULAWESI TENGGARA,146,63,75,138,4,4,8,0,-4.901628,122.627747
+7401038,RS Umum Daerah Kabupaten Buton, Jl. Protokol Laburunce  KEc. pasarwajo,SULAWESI TENGGARA,67,0,0,0,0,0,67,0,-5.309636,122.988831
+7571010,RS Umum Daerah Prof Dr. H. Aloei Saboe,Jl. Prof. Dr. H. Aloei Saboe,GORONTALO,400,75,70,145,103,152,255,0,0.5552,123.08577
+7503045,RS Umum Daerah Bumi Panua,Jl. dr. Herizal Umar Desa Botubilotahu Kec. Marisa,GORONTALO,123,31,57,88,16,19,35,0,0.5176470000000001,121.73288000000001
+7502033,RS Umum Daerah dr. M. Mohammad Dunda,Jl. Achmad A. Wahab (eks Ahmad Yani No. 53) Limboto Gorontalo,GORONTALO,195,42,100,142,38,15,53,1,0.701342,122.26538799999999
+7502032,RS Umum Daerah Otanaha,"  Jl. Rambutan No. 412 Kel.Buladu, Kota Gorontalo",GORONTALO,86,15,20,35,16,35,51,0,0.552511,123.065498
+7501043,RS Umum Daerah Tani dan Nelayan," Jln. Prof. Dr. Aloei Saboe, Desa Lamu Kec.Tilamuta,Kab.Boalemo",GORONTALO,150,14,25,39,50,61,111,0,0.701342,122.26538799999999
+7604012,RS Umum Daerah Kabupaten Mamuju,  Jl. Kurungan Bassi Mamuju,SULAWESI BARAT,108,11,21,32,31,45,76,0,-2.699189,118.86211399999999
+7602044,RS Umum Daerah Polewali,   Jl. Dr Ratulangi No. 50 Polewali,SULAWESI BARAT,348,53,67,120,95,139,228,0,-3.3886,119.220467
+8172002,RS Umum Daerah Maren Kota Tual, Jl. Hi Noho Renuat,MALUKU,49,2,2,4,12,10,45,0,-5.637719000000001,132.66223100000002
+8171063,RSKD Provinsi Maluku,Jl. Laksdya Leo Wattimena Ambon,MALUKU,110,28,22,50,36,24,60,0,-3.656069,128.166412
+8171015,RS Umum Dr. M. Haulussy Ambon,Jl. dr. Kayadoe Ambon,MALUKU,385,57,91,148,90,143,237,0,-3.706894,128.162598
+8109018,RS Umum Daerah Namrole,"Jl. Kilometer No. 02, Labuang - Namrole",MALUKU,53,6,2,8,13,32,45,0,-4.006631,122.49886299999999
+8107021,RS Umum Daerah Kab. Seram Bagian Timur,Jl. Wailola No.11-12 Bula Kab. Seram BagianTimur,MALUKU,93,9,19,28,31,32,65,0,-3.109681,130.498505
+8106010,RS Umum Piru,Jl. Arteri Piru,MALUKU,61,272,252,524,11,12,-463,0,-3.238461,130.14527900000002
+8103053,RS Umum Daerah dr. Ishak Umarella,Jl. Pahlawan No. 36 Tulehu,MALUKU,115,5,15,20,24,46,95,0,-3.701189,128.16499299999998
+8103042,RS Umum Masohi,Jl. Dr. G. A. Siwabessy Masohi,MALUKU,267,108,169,277,108,169,-10,0,-5.15,132.016663
+8103020,RS Umum Namlea,Jl. Butung Leong No. 1 Desa Lala Kab.Buru,MALUKU,55,16,15,31,9,15,24,0,-3.233397,127.085899
+8103016,RS Umum Saparua, Jl. Rumah Sakit Porto Haria Kecamatan Saparua,MALUKU,37,5,3,8,14,15,29,0,-3.57405,128.654449
+8101063,RS Umum Daerah Dr. P. P. Magretti Saumlaki,Jl. Mr. Latuharhari - Saumlaki,MALUKU,89,19,38,57,11,26,32,0,-8.730128,120.737785
+8271016,RS Umum Daerah Dr. H. Chasan Boesoirie Ternate,Jl. Cempaka Kel. Tanah Tinggi Kota Ternate,MALUKU UTARA,226,0,1,1,4,3,225,0,0.788067,127.377159
+8206012,RS Umum Daerah Maba,Jl. Trans Halmahera Kec. Kota Maba,MALUKU UTARA,73,21,52,73,0,6,0,0,0.6,127.86666899999999
+8205032,RS Umum Daerah Kab. Pulau Morotai,Jl. Nakamura Desa Dehegila Kecamatan Morotai Selatan,MALUKU UTARA,67,0,0,0,0,0,67,0,2.287261,128.514313
+8205021,RS Umum Daerah Weda,"JL. Raya Weda, Desa Wedana",MALUKU UTARA,50,14,36,50,0,0,0,0,0.6246079999999999,127.917351
+8204010,RS Umum Daerah Labuha,Jl.  Raya Labuha-Babang,MALUKU UTARA,16,10,0,10,0,6,6,0,-0.63125,127.467529
+8203020,RS Umum Daerah Sanana,Jl. Dr. Sibarani - Desa Falahu Kecamatan Sanana Kabupaten Kep. Sula,MALUKU UTARA,78,11,11,22,6,15,56,0,-2.2337,125.936996
+8202043,RS Umum Daerah Kota Tidore Kepulauan,Jl. Sultan mansyur No 11 Indonesiana Tidore Maluku Utara,MALUKU UTARA,145,21,25,46,0,9,99,0,0.683333,127.400002
+8201021,RS Umum Daerah Jailolo,"Jl.Ir. Soekarno Ds. Acango-Jailolo,Halmahera Barat",MALUKU UTARA,78,14,30,44,0,0,34,0,1.070792,127.465202
+8201010,RS Umum Daerah Tobelo,Jl. Lanbouw Gamsungi Tobelo Halmahera Utara,MALUKU UTARA,140,35,40,75,27,32,65,0,0.6,127.86666899999999
+9102033,RS AL dr. Azhar Zahir Manokwari,Jl. Serma Suwandi No. 01 Manokwari,PAPUA BARAT,34,0,0,0,0,0,34,0,-0.8615219999999999,134.07879599999998
+9101010,RS Umum Daerah Fakfak,Jl. Jend Sudirman Fak Fak,PAPUA BARAT,113,20,19,39,28,46,74,0,-2.939964,132.297501
+9271078,RS Umum Daerah Yowari Sentani,"    Jl. Raya Sentani - Depapre,Doyo Baru",PAPUA,53,16,12,28,12,12,25,0,-2.5412779999999997,140.71373
+9271067,RS Bhayangkara Jayapura,"Jl. Jeruk Nipis Furia Kotaraja,Jayapura",PAPUA,151,38,32,70,0,0,81,0,-2.5412779999999997,140.71373
+9271045,RS Jiwa Abepura,"   Jl. Kesehatan II Abepura, Kota Jayapura",PAPUA,0,0,0,0,0,0,0,0,-2.606119,140.669006
+9271023,RS Umum Abepura," Jl. Kesehatan No. I Abepura, jayapura",PAPUA,192,56,72,128,14,50,64,0,-2.5412779999999997,140.71373
+9271012,RS Umum Jayapura, Jl. Kesehatan I No. 01 Dok II Jayapura,PAPUA,360,91,83,174,0,0,186,0,-2.5412779999999997,140.71373
+9220043,RS Umum Daerah Kwaingga Kabupaten Keerom,"    Jl. Bhayangkara,Kp. Asyaman,Distrik Arso,Kab.Keerom",PAPUA,86,5,9,14,29,43,72,0,-4.354503,139.36531100000002
+9217013,RS Umum Daerah Oksibil, jl. Poros Kabiding No. 2 Oksibil,PAPUA,42,0,0,0,0,0,42,0,-5.080178,140.635803
+9214012,RS Umum Daerah Kabupaten Mappi,"Jl. Poros Agham Km.6, Kelurahan Kepi, Distrik Obaa, Kabupaten Mappi",PAPUA,77,9,14,23,26,28,54,0,-7.076362,139.397049
+9213038,RS Bergerak Kabupaten Boven Digoel,Distrik Mindiptana,PAPUA,22,12,10,22,12,10,0,0,-6.0833330000000005,140.28333999999998
+9212011,RS Umum Daerah Kabupaten Mimika, Jl. Yos Sudarso Kab. Mimika,PAPUA,142,41,50,91,26,28,51,0,-4.354503,139.36531100000002
+9205015,RS Umum Biak, Jl. Sriwijaya Ridge I Biak,PAPUA,215,0,0,0,0,0,215,0,-1.1614389999999999,136.047424
+9202023,RS Umum Daerah Paniai," Jl. Raya Madi KM.7,Paniai Timur",PAPUA,110,20,16,36,29,55,74,0,-4.354503,139.36531100000002
+9202013,RS Umum Wamena,"Jl. Trikora Wamena, No.9",PAPUA,171,83,81,164,81,79,7,0,-4.098333,138.95166
+9202012,RS Umum Nabire,"  Jl. R.E Martadinata Nabire, Papua",PAPUA,207,3,2,5,7,8,202,0,-3.3584169999999998,135.495697
+9201012,RS Umum Merauke,      Jl. Sukarjowirjopranoto No. 1 Merauke,PAPUA,264,58,74,132,42,67,132,0,-8.495994,140.394501
